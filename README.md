@@ -20,7 +20,7 @@ Here are some projects I've worked on recently:
 
 ## 📈 GitHub Stats
 ![Fursan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FursanAkzada&show_icons=true&hide_border=true&theme=tokyonight)  
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=FursanAkzada&layout=compact&langs_count=8&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=FursanAkzada&layout=compact&langs_count=8&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=3f3f3f)
 
 ## 📫 How to reach me:
 - **Email**: fursanakzada@gmail.com  
