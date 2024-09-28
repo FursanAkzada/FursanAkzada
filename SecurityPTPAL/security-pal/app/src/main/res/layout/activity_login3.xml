@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login3"
+    android:background="@drawable/login3"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/industri"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:src="@drawable/industri"
+        android:foregroundGravity="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintHorizontal_bias="0.15"
+        android:layout_marginTop="40dp"/>
+
+    <EditText
+        android:layout_width="280dp"
+        android:layout_height="55dp"
+        android:id="@+id/email_employee3"
+        android:hint="Email"
+        android:textColorHint="#858585"
+        android:textColor="@color/black"
+        android:inputType="textEmailAddress"
+        android:drawableLeft="@drawable/ic_username"
+        android:background="@drawable/edittext_log"
+        android:paddingLeft="10dp"
+        android:drawablePadding="10dp"
+        android:layout_marginTop="155dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintHorizontal_bias="0.45"
+        app:layout_constraintTop_toBottomOf="@+id/industri"/>
+
+    <EditText
+        android:layout_width="280dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="15dp"
+        android:textColorHint="#858585"
+        android:textColor="@color/black"
+        android:id="@+id/password_employee3"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:drawableLeft="@drawable/ic_lock"
+        android:background="@drawable/edittext_log"
+        android:paddingLeft="10dp"
+        android:drawablePadding="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintHorizontal_bias="0.45"
+        app:layout_constraintTop_toBottomOf="@+id/email_employee3"/>
+
+    <Switch
+        android:id="@+id/active3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Remember me"
+        android:textColor="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintHorizontal_bias="0.25"
+        app:layout_constraintTop_toBottomOf="@+id/password_employee3" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="45dp"
+        android:id="@+id/arrow3"
+        android:background="@drawable/edittext_log"
+        android:layout_marginTop="30dp"
+        android:text="LOGIN"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:fontFamily="@font/gabriela"
+        android:drawableRight="@drawable/ic_arrow2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintTop_toBottomOf="@+id/active3">
+    </Button>
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="340dp"
+        android:layout_height="30dp"
+        android:background="@drawable/bumn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="@id/imageView5"
+        app:layout_constraintVertical_bias="0.65"
+        app:layout_constraintTop_toBottomOf="@+id/arrow3"/>
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="@drawable/defend"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintVertical_bias="0.4"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

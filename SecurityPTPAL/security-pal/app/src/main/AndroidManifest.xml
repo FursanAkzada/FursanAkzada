@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.securityptpal">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/logopal"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@drawable/logopal"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Design.Light.NoActionBar">
+        <activity
+            android:name=".DetailParksubActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".IdcardDetailSubcon2"
+            android:exported="false" />
+        <activity
+            android:name=".IdcardDetailMemberGu"
+            android:exported="false" />
+        <activity
+            android:name=".DetailGuestMemberActivity"
+            android:exported="false"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".DetailSubconPermitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SubconPermitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginParksubActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailSubconEmployeeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EditEmployeeSubconActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IdcardDetailSubcon"
+            android:exported="false" />
+        <activity
+            android:name=".Login4"
+            android:exported="false" />
+        <activity
+            android:name=".Login3"
+            android:exported="false" />
+        <activity
+            android:name=".IdcardDetailVisitor"
+            android:exported="false" />
+        <activity
+            android:name=".IdcardDetailGuest"
+            android:exported="false" />
+        <activity
+            android:name=".main.EditSubconPermitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailSubconActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailGuestAct"
+            android:exported="false" />
+        <activity
+            android:name=".DetailGuestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GuestPermitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CheckupPermitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailCheckupActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailVisitorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VisitorPermitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EditCheckupPermitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EditVisitorPermitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailCheckupPermissionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailVisitorPermissionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailCheckupAct"
+            android:exported="false" />
+        <activity
+            android:name=".DetailVisitorAct"
+            android:exported="false" />
+        <activity
+            android:name=".UtamaDataParksub"
+            android:exported="false" />
+        <activity
+            android:name=".CaptureAct"
+            android:screenOrientation="fullSensor"
+            android:stateNotNeeded="true"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name=".ParkingSubcontractor"
+            android:exported="false" />
+        <activity
+            android:name=".FilterPage"
+            android:exported="false" />
+        <activity
+            android:name=".ForgetPassword"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".main.GoodsPermitRecapActivity"
+            android:exported="false" />
+        <activity
+            android:name=".main.EditGuestPermitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailGuestPermitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailBarangActivity"
+            android:exported="false" />
+        <activity
+            android:name=".main.EditGoodsPermitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".main.EditLatePermitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".main.EditExitPermitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".main.DetailDivisionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UtamaDataCheckup"
+            android:exported="false" />
+        <activity
+            android:name=".UtamaDataSubcon"
+            android:exported="false" />
+        <activity
+            android:name=".MonitoringCheckUp"
+            android:exported="false" />
+        <activity
+            android:name=".main.MainDivisionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".division.DivisionLatePermitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CheckUpPermissionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".main.DetailExitPermissionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ShowQR"
+            android:exported="false" />
+        <activity
+            android:name=".DocSubcon2"
+            android:exported="false" />
+        <activity
+            android:name=".DocSubcon"
+            android:exported="false" />
+        <activity
+            android:name=".UtamaDataBarang"
+            android:exported="false" />
+        <activity
+            android:name=".UtamaBarang"
+            android:exported="false" />
+        <activity
+            android:name=".UtamaDataVisitor"
+            android:exported="false" />
+        <activity
+            android:name=".UtamaVisitor"
+            android:exported="false" />
+        <activity
+            android:name=".division.DetailExitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UtamaDataGuest"
+            android:exported="false" />
+        <activity
+            android:name=".UtamaGuest"
+            android:exported="false" />
+        <activity
+            android:name=".Utama_Data_Cometoolate"
+            android:exported="false" />
+        <activity
+            android:name=".UtamaCometoolate"
+            android:exported="false" />
+        <activity
+            android:name=".main.UtamaDataEmployee"
+            android:exported="false" />
+        <activity
+            android:name=".division.ExitPermissionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".division.EmployeePermitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".employee.DetailPermissionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".division.AkunDivisi"
+            android:exported="false" />
+        <activity
+            android:name=".MonitoringVisitor"
+            android:exported="false" />
+        <activity
+            android:name=".VisitorPermissionActivity"
+            android:exported="true" />
+        <activity
+            android:name=".main.AkunUtama"
+            android:exported="false" />
+        <activity
+            android:name=".MonitoringBarang"
+            android:exported="false" />
+        <activity
+            android:name=".BarangActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MonitoringComeTooLate"
+            android:exported="false" />
+        <activity
+            android:name=".employee.MonitoringEmployee"
+            android:exported="false" />
+        <activity
+            android:name=".MonitoringSubcontractor"
+            android:exported="true" />
+        <activity
+            android:name=".AboutUs"
+            android:exported="false" />
+        <activity
+            android:name=".FAQ"
+            android:exported="false" />
+        <activity
+            android:name=".MonitoringGuest"
+            android:exported="true" />
+        <activity
+            android:name=".Subcontractor"
+            android:exported="true" />
+        <activity
+            android:name=".CometooLate"
+            android:exported="true" />
+        <activity
+            android:name=".Login2"
+            android:exported="false" />
+        <activity
+            android:name=".GuestPermissionActivity"
+            android:exported="true" />
+        <activity
+            android:name=".employee.Employee"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="true"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GuestPermissionActivity"
+    android:background="@drawable/menuall">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:fontFamily="@font/fredoka_one"
+        android:text="Guest Permission"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.54"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/nameGu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView">
+        <TextView
+            android:id="@+id/nameGuest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:text="Name\t\t\t\t\t\t\t\t:"
+            android:textColor="#174887"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/edtNameGuest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#000000"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/companyGu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nameGu">
+        <TextView
+            android:id="@+id/companyGuest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:text="Company\t\t\t\t:"
+            android:textColor="#174887"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/edtCompanyGuest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#000000"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/nohpGu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/companyGu">
+        <TextView
+            android:id="@+id/noHPGuest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:text="Phone\t\t\t\t\t\t\t:"
+            android:textColor="#174887"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/edtNoHPGuest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#000000"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/divGu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nohpGu">
+        <TextView
+            android:id="@+id/divisiGuest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:text="Division\t\t\t\t\t:"
+            android:textColor="#174887"
+            android:textSize="16sp" />
+
+        <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+            android:id="@+id/guest_div_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:hintText="Select Division"
+            android:layout_marginLeft="5dp"/>
+    </LinearLayout>
+            <LinearLayout
+                android:id="@+id/departGu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginTop="15dp"
+                android:orientation="horizontal"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/divGu">
+                <TextView
+                    android:id="@+id/departSubcon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-black"
+                    android:text="Department\t\t:"
+                    android:textColor="#174887"
+                    android:textSize="16sp" />
+
+                <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+                    android:id="@+id/guest_dep_spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#000000"
+                    android:textColor="#000000"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="16dp"/>
+                    app:hintText="Select Department"
+                    android:layout_marginLeft="5dp"/>
+            </LinearLayout>
+    <LinearLayout
+        android:id="@+id/picGu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/departGu">
+        <TextView
+            android:id="@+id/picSubcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:text="PIC\t\t\t\t\t\t\t\t\t\t:"
+            android:textColor="#174887"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/edtPICGuest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#000000"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/necGu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/picGu">
+        <TextView
+            android:id="@+id/necessityGuest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:text="Necessity\t\t\t\t:"
+            android:textColor="#174887"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/edtNecessityGuest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#000000"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/dateGu"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toStartOf="@id/calGuest"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/necGu">
+        <TextView
+            android:id="@+id/dateGuest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:text="Date\t\t\t\t\t\t\t\t\t:"
+            android:textColor="#174887"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/edtDateGuest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#000000"
+            android:textColor="#000000"
+            android:layout_marginLeft="10dp"/>
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/calGuest"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/calendar"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintBottom_toBottomOf="@+id/dateGu"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/dateGu" />
+
+            <LinearLayout
+                android:id="@+id/timeinGu"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:orientation="horizontal"
+                app:layout_constraintEnd_toStartOf="@+id/img_guest_timein"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/dateGu">
+
+                <TextView
+                    android:id="@+id/timeinGuest"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-black"
+                    android:text="Time in\t\t\t\t\t\t:"
+                    android:textColor="#174887"
+                    android:textSize="16sp" />
+
+                <EditText
+                    android:id="@+id/edtTimeinGuest"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:backgroundTint="#000000"
+                    android:textColor="#000000" />
+            </LinearLayout>
+            <ImageView
+                android:id="@+id/img_guest_timein"
+                android:onClick="pop"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/timeout"
+                android:layout_marginTop="5dp"
+                tools:ignore="OnClick"
+                android:layout_marginEnd="16dp"
+                app:layout_constraintBottom_toBottomOf="@+id/timeinGu"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/timeinGu" />
+
+            <LinearLayout
+                android:id="@+id/timeoutGu"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:orientation="horizontal"
+                app:layout_constraintEnd_toStartOf="@+id/img_guest_timeout"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/timeinGu">
+
+                <TextView
+                    android:id="@+id/timeoutGuest"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-black"
+                    android:text="Time out\t\t\t\t\t:"
+                    android:textColor="#174887"
+                    android:textSize="16sp" />
+
+                <EditText
+                    android:id="@+id/edtTimeoutGuest"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:backgroundTint="#000000"
+                    android:textColor="#000000" />
+            </LinearLayout>
+            <ImageView
+                android:id="@+id/img_guest_timeout"
+                android:onClick="pop2"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/timeback"
+                android:layout_marginTop="5dp"
+                tools:ignore="OnClick"
+                android:layout_marginEnd="16dp"
+                app:layout_constraintBottom_toBottomOf="@+id/timeoutGu"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/timeoutGu"/>
+    <LinearLayout
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/timeoutGu">
+        <Button
+            android:id="@+id/submitGuest"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:text="Submit"
+            android:textColor="@color/white"
+            android:background="@drawable/edittext_employ">
+        </Button>
+        <Button
+            android:id="@+id/btn_monitoring_guest"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:text="Go to Monitoring"
+            android:textColor="@color/white"
+            android:background="@drawable/edittext_monitoring"
+            android:layout_marginLeft="10dp">
+        </Button>
+    </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

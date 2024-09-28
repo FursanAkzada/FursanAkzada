@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ParkingSubcontractor"
+    android:background="@drawable/bgparksub">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="Parking\nSubcontractor"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/gabriela"
+        android:layout_marginTop="70dp"/>
+
+    <ImageView
+        android:id="@+id/sign_out_parksub"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_marginEnd="16dp"
+        android:src="@drawable/ic_logout"
+        android:clickable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:focusable="true"
+        app:layout_constraintBottom_toBottomOf="@+id/tv"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/tv"
+        app:tint="@color/white" />
+
+    <Button
+        android:id="@+id/scanParksub"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv"
+        android:text="Scan"
+        android:textColor="@color/white"
+        android:background="@drawable/edittext_scan"
+        android:fontFamily="@font/gabriela"
+        android:layout_marginTop="130dp"/>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/masuk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/tvmasuk"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintHorizontal_bias="0.3"
+        android:textSize="50dp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/fredoka_one" />
+
+    <TextView
+        android:layout_marginTop="60dp"
+        android:id="@+id/tvmasuk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/scanParksub"
+        app:layout_constraintEnd_toEndOf="@id/tvkeluar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintHorizontal_bias="0.39"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/gabriela"
+        android:text="Enter"/>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/keluar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/tvkeluar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/masuk"
+        android:layout_marginLeft="5dp"
+        android:textSize="50dp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/fredoka_one"/>
+
+    <TextView
+        android:layout_marginTop="60dp"
+        android:id="@+id/tvkeluar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/scanParksub"
+        app:layout_constraintStart_toEndOf="@id/tvmasuk"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/gabriela"
+        android:text="Leave"/>
+
+    <Button
+        android:id="@+id/resetParkSub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/masuk"
+        app:layout_constraintBottom_toTopOf="@id/imageView4"
+        android:layout_marginTop="48dp"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:background="#174887"
+        android:text="Reset"/>
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="300dp"
+        android:layout_height="30dp"
+        android:background="@drawable/bumn"
+        android:layout_marginTop="180dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/masuk"
+        app:layout_constraintBottom_toTopOf="@id/imageView5"/>
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="@drawable/defend"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="20dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

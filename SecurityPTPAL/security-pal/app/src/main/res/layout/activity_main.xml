@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/menu"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_margin="20dp">
+        <ImageView
+            android:id="@+id/faq"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_baseline_question_mark_24"
+            android:layout_gravity="end"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <ImageView
+                android:id="@+id/orang"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/people"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="135dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="People Permission"
+                android:textSize="25dp"
+                android:textColor="#174887"
+                android:fontFamily="@font/fredoka_one"
+                android:layout_marginLeft="95dp"
+                android:layout_marginTop="5dp"/>
+
+            <ImageView
+                android:id="@+id/barang"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@drawable/delivery"
+                android:backgroundTint="#ffffff"
+                android:layout_marginTop="180dp"
+                android:layout_marginLeft="130dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Goods Permission"
+                android:textSize="25dp"
+                android:textColor="@color/white"
+                android:fontFamily="@font/fredoka_one"
+                android:layout_marginLeft="105dp"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
