@@ -6,7 +6,7 @@ Here are some technologies I've been working with recently:
 
 - **Languages**: PHP, C++, C, Java  
 - **Frameworks**: CodeIgniter, Laravel  
-- **Databases**: MySQL, SQLServer, SQLite  
+- **Databases**: MySQL, SQLServer, SQLite, Firebase  
 - **Development Tools**: Android Studio, VSCode  
 - **DevOps & Tools**:  
   - **Version Control**: Git  
@@ -21,6 +21,7 @@ Here are some projects I've worked on recently:
 ## 📈 GitHub Stats
 ![Fursan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FursanAkzada&show_icons=true&hide_border=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FursanAkzada&layout=compact&theme=radical)
+![Fursan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FursanAkzada&theme=radical)
 
 ## 📫 How to reach me:
 - **Email**: fursanakzada@gmail.com  
