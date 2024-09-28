@@ -19,8 +19,8 @@ Here are some projects I've worked on recently:
 - **SecurityPTPAL**: An Android Application built with Android Studio using Java and Firebase Database.  
 
 ## 📈 GitHub Stats
-![Fursan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FursanAkzada&show_icons=true&hide_border=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FursanAkzada&layout=compact&theme=dark)
+![Fursan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FursanAkzada&show_icons=true&hide_border=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FursanAkzada&layout=compact&theme=tokyonight)
 
 ## 📫 How to reach me:
 - **Email**: fursanakzada@gmail.com  
