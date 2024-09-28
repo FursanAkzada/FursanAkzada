@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there, I'm Fursan Akzada! 👋
 
-<!--
-**FursanAkzada/FursanAkzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer passionate about building impactful software and contributing to open-source projects. I enjoy learning new technologies and improving my skills to solve real-world problems through clean, efficient code.
 
-Here are some ideas to get you started:
+🔧 Tech Stack
+Here are some technologies I've been working with recently:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: PHP, C++, C, Java
+Frameworks: CodeIgniter, Laravel
+Databases: MySQL, SQLServer, SQLite
+Development Tools : Android Studio, VSCode
+DevOps & Tools:
+- Version Control: Git
+- Build Automation: Maven and Gradle
+
+💻 Projects
+Here are some projects I've worked on recently:
+
+Project 1: Android Application built by Android Studio using Java Language and SQLite Database [App Name : Smart Street Light].
+Project 2: Android Application built by Android Studio using Java Language and Firebase Database [App Name : SecurityPTPAL].
+
+📫 How to reach me:
+Email: fursanakzada@gmail.com
