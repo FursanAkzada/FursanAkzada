@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there, I'm Fursan Akzada! 👋  
+I'm a Software Engineer passionate about building impactful software and contributing to open-source projects. I enjoy learning new technologies and improving my skills to solve real-world problems through clean, efficient code.
 
-<!--
-**FursanAkzada/FursanAkzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+Here are some technologies I've been working with recently:
 
-Here are some ideas to get you started:
+- **Languages**: PHP, C++, C, Java, HTML, CSS  
+- **Frameworks**: CodeIgniter, Laravel, Bootstrap  
+- **Databases**: MySQL, SQLServer, SQLite, Firebase  
+- **Development Tools**: Android Studio, VSCode, Visual Studio, Postman
+- **DevOps & Tools**:  
+  - **Version Control**: Git  
+  - **Build Automation**: Maven, Gradle  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+Here are some projects I've worked on recently:
+
+- **Smart Street Light**: An Android Application built with Android Studio using Java and SQLite Database.  
+- **SecurityPTPAL**: An Android Application built with Android Studio using Java and Firebase Database.  
+
+## 📈 GitHub Stats
+![Fursan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FursanAkzada&show_icons=true&hide_border=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FursanAkzada&layout=compact&theme=tokyonight)
+
+## 📫 How to reach me:
+- **Email**: fursanakzada@gmail.com  
+- **LinkedIn**: [Fursan Akzada](https://www.linkedin.com/in/fursanakzada)  
