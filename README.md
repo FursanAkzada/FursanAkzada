@@ -4,10 +4,10 @@ I'm a Software Engineer passionate about building impactful software and contrib
 ## 🔧 Tech Stack
 Here are some technologies I've been working with recently:
 
-- **Languages**: PHP, C++, C, Java  
-- **Frameworks**: CodeIgniter, Laravel  
+- **Languages**: PHP, C++, C, Java, HTML, CSS  
+- **Frameworks**: CodeIgniter, Laravel, Bootstrap  
 - **Databases**: MySQL, SQLServer, SQLite, Firebase  
-- **Development Tools**: Android Studio, VSCode  
+- **Development Tools**: Android Studio, VSCode, Visual Studio, Postman
 - **DevOps & Tools**:  
   - **Version Control**: Git  
   - **Build Automation**: Maven, Gradle  
