@@ -1,4 +1,11 @@
+# Izinkan semua file bahasa yang diperlukan untuk dihitung
+*.php linguist-detectable=true
 *.java linguist-detectable=true
 *.js linguist-detectable=true
 *.html linguist-detectable=true
+*.css linguist-detectable=true
 *.xml linguist-detectable=true
+
+# Pastikan file yang tidak ingin dihitung
+*.log linguist-detectable=false
+*.md linguist-detectable=false  # Jika ingin mengabaikan file README.md
