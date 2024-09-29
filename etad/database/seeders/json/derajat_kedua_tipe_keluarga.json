@@ -1,0 +1,257 @@
+[
+  {
+    "id_tipe": 1,
+    "nama_tipe": "otk_bapak",
+    "keterangan": "Bapak"
+  },
+  {
+    "id_tipe": 2,
+    "nama_tipe": "otk_ibu",
+    "keterangan": "Ibu"
+  },
+  {
+    "id_tipe": 3,
+    "nama_tipe": "ott_bapak",
+    "keterangan": "Bapak"
+  },
+  {
+    "id_tipe": 4,
+    "nama_tipe": "ott_ibu",
+    "keterangan": "Ibu"
+  },
+  {
+    "id_tipe": 5,
+    "nama_tipe": "ota_bapak",
+    "keterangan": "Bapak"
+  },
+  {
+    "id_tipe": 6,
+    "nama_tipe": "ota_ibu",
+    "keterangan": "Ibu"
+  },
+  {
+    "id_tipe": 7,
+    "nama_tipe": "SaudaraKandung",
+    "keterangan": "Saudara Kandung"
+  },
+  {
+    "id_tipe": 8,
+    "nama_tipe": "Saudaratiri",
+    "keterangan": "Saudara tiri"
+  },
+  {
+    "id_tipe": 9,
+    "nama_tipe": "Saudaraangkat",
+    "keterangan": "Saudara angkat"
+  },
+  {
+    "id_tipe": 10,
+    "nama_tipe": "Anakkandung",
+    "keterangan": "Anak kandung "
+  },
+  {
+    "id_tipe": 11,
+    "nama_tipe": "Anaktiri",
+    "keterangan": "Anak tiri"
+  },
+  {
+    "id_tipe": 12,
+    "nama_tipe": "Anakangkat",
+    "keterangan": "Anak angkat"
+  },
+  {
+    "id_tipe": 13,
+    "nama_tipe": "Kakekkandung",
+    "keterangan": "Kakek kandung"
+  },
+  {
+    "id_tipe": 14,
+    "nama_tipe": "Nenekkandung",
+    "keterangan": "Nenek kandung"
+  },
+  {
+    "id_tipe": 15,
+    "nama_tipe": "Kakektiri",
+    "keterangan": "Kakek tiri"
+  },
+  {
+    "id_tipe": 16,
+    "nama_tipe": "Nenektiri",
+    "keterangan": "Nenek tiri"
+  },
+  {
+    "id_tipe": 17,
+    "nama_tipe": "Kakekangkat",
+    "keterangan": "Kakek angkat"
+  },
+  {
+    "id_tipe": 18,
+    "nama_tipe": "Nenekangkat",
+    "keterangan": "Nenek angkat"
+  },
+  {
+    "id_tipe": 19,
+    "nama_tipe": "Cucukandung",
+    "keterangan": "Cucu kandung"
+  },
+  {
+    "id_tipe": 20,
+    "nama_tipe": "Cucutiri",
+    "keterangan": "Cucu tiri"
+  },
+  {
+    "id_tipe": 21,
+    "nama_tipe": "Cucuangkat",
+    "keterangan": "Cucu angkat"
+  },
+  {
+    "id_tipe": 22,
+    "nama_tipe": "skdot_bapak",
+    "keterangan": "Dari Bapak"
+  },
+  {
+    "id_tipe": 23,
+    "nama_tipe": "skdot_ibu",
+    "keterangan": "Dari ibu"
+  },
+  {
+    "id_tipe": 24,
+    "nama_tipe": "stdot_bapak",
+    "keterangan": "Dari Bapak"
+  },
+  {
+    "id_tipe": 25,
+    "nama_tipe": "stdot_ibu",
+    "keterangan": "Dari ibu"
+  },
+  {
+    "id_tipe": 26,
+    "nama_tipe": "sadot_bapak",
+    "keterangan": "Dari Bapak"
+  },
+  {
+    "id_tipe": 27,
+    "nama_tipe": "sadot_ibu",
+    "keterangan": "Dari ibu"
+  },
+  {
+    "id_tipe": 28,
+    "nama_tipe": "suami_istri",
+    "keterangan": "Suami / istri"
+  },
+  {
+    "id_tipe": 29,
+    "nama_tipe": "m_bapak",
+    "keterangan": "Bapak"
+  },
+  {
+    "id_tipe": 30,
+    "nama_tipe": "m_ibu",
+    "keterangan": "Ibu"
+  },
+  {
+    "id_tipe": 31,
+    "nama_tipe": "b_bapak",
+    "keterangan": "Bapak"
+  },
+  {
+    "id_tipe": 32,
+    "nama_tipe": "b_ibu",
+    "keterangan": "Ibui"
+  },
+  {
+    "id_tipe": 33,
+    "nama_tipe": "suami_dak",
+    "keterangan": "Suami dari anak kandung "
+  },
+  {
+    "id_tipe": 34,
+    "nama_tipe": "istri_dak",
+    "keterangan": "Istri dari anak kandung"
+  },
+  {
+    "id_tipe": 35,
+    "nama_tipe": "suami_dat",
+    "keterangan": "Suami dari anak tiri"
+  },
+  {
+    "id_tipe": 36,
+    "nama_tipe": "istri_dat",
+    "keterangan": "Istri dari anak tiri"
+  },
+  {
+    "id_tipe": 37,
+    "nama_tipe": "suami_daa",
+    "keterangan": "Suami dari anak angkat"
+  },
+  {
+    "id_tipe": 38,
+    "nama_tipe": "istri_daa",
+    "keterangan": "Istri dari anak angkat"
+  },
+  {
+    "id_tipe": 39,
+    "nama_tipe": "kakek_dsi",
+    "keterangan": "Kakek dari suami / istri"
+  },
+  {
+    "id_tipe": 40,
+    "nama_tipe": "nenek_dsi",
+    "keterangan": "Nenek dari suami / istri"
+  },
+  {
+    "id_tipe": 41,
+    "nama_tipe": "suami_dck",
+    "keterangan": "Suami dari cucu kandung"
+  },
+  {
+    "id_tipe": 42,
+    "nama_tipe": "istri_dck",
+    "keterangan": "Istri dari cucu kandung"
+  },
+  {
+    "id_tipe": 43,
+    "nama_tipe": "suami_dct",
+    "keterangan": "Suami dari cucu tiri"
+  },
+  {
+    "id_tipe": 44,
+    "nama_tipe": "istri_dct",
+    "keterangan": "Istri dari cucu titi"
+  },
+  {
+    "id_tipe": 45,
+    "nama_tipe": "suami_dca",
+    "keterangan": "Suami dari cucu angkat"
+  },
+  {
+    "id_tipe": 46,
+    "nama_tipe": "istri_dca",
+    "keterangan": "Istri dari cucu angkat"
+  },
+  {
+    "id_tipe": 47,
+    "nama_tipe": "dllskta",
+    "keterangan": "danlainlain"
+  },
+  {
+    "id_tipe": 48,
+    "nama_tipe": "kakekkandungi",
+    "keterangan": "kakek kandung ibu"
+  },
+  {
+    "id_tipe": 49,
+    "nama_tipe": "nenekkandungi",
+    "keterangan": "nenek kandung ibu"
+  },
+  {
+    "id_tipe": 50,
+    "nama_tipe": "kakek_dsii",
+    "keterangan": "Kakek dari ibu suami/istri"
+  },
+  {
+    "id_tipe": 51,
+    "nama_tipe": "nenek_dsii",
+    "keterangan": "Nenek dari ibu suami istri"
+  }
+]

@@ -1,0 +1,929 @@
+[
+  {
+    "sandi": "2062",
+    "Lengkap": "Pegawai Sakit Bulan ke 5-8 75% (BUKAN PUNISHMENT)",
+    "KN": "1",
+    "Lumsum": "1",
+    "usrCrea": "3000",
+    "usrTime": "2020-09-23T11:52:10",
+    "statRec": null
+  },
+  {
+    "sandi": "2063",
+    "Lengkap": "Pegawai Sakit Bulan ke 9-12 50% (BUKAN PUNISHMENT)",
+    "KN": "",
+    "Lumsum": "",
+    "usrCrea": "3000",
+    "usrTime": "2020-09-23T11:52:31",
+    "statRec": null
+  },
+  {
+    "sandi": "2064",
+    "Lengkap": "Pegawai Sakit Bulan ke 13 25% (BUKAN PUNISHMENT)",
+    "KN": "1",
+    "Lumsum": "1",
+    "usrCrea": "3000",
+    "usrTime": "2020-09-23T11:53:16",
+    "statRec": null
+  },
+  {
+    "sandi": "3001",
+    "Lengkap": "Surat Peringatan",
+    "KN": "1",
+    "Lumsum": "1",
+    "usrCrea": null,
+    "usrTime": "2020-12-23T11:53:16",
+    "statRec": null
+  },
+  {
+    "sandi": "2065",
+    "Lengkap": "Demosi Jabatan 1 Tingkat",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2066",
+    "Lengkap": "Demosi Jabatan 2 Tingkat",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "3002",
+    "Lengkap": "Teguran LIsan Pembinaan",
+    "KN": "",
+    "Lumsum": "",
+    "usrCrea": "3000",
+    "usrTime": "2021-04-23T14:14:14",
+    "statRec": null
+  },
+  {
+    "sandi": "2061",
+    "Lengkap": "tes om",
+    "KN": "1",
+    "Lumsum": "1",
+    "usrCrea": "nizam",
+    "usrTime": "2017-11-22T11:18:36",
+    "statRec": null
+  },
+  {
+    "sandi": "1030",
+    "Lengkap": "tes rew",
+    "KN": "1",
+    "Lumsum": "1",
+    "usrCrea": "nizam",
+    "usrTime": "2017-11-22T11:46:40",
+    "statRec": null
+  },
+  {
+    "sandi": "1011",
+    "Lengkap": "Pengabdian 15 Tahun",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1012",
+    "Lengkap": "Pengabdian 25 Tahun",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1013",
+    "Lengkap": "Pengabdian 30 Tahun",
+    "KN": null,
+    "Lumsum": null,
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1014",
+    "Lengkap": "Pengabdian",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1015",
+    "Lengkap": "PPKP",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1021",
+    "Lengkap": "3 KN + Lumsum",
+    "KN": "3",
+    "Lumsum": "1",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1022",
+    "Lengkap": "2 KN + Lumsum",
+    "KN": "2",
+    "Lumsum": "1",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1023",
+    "Lengkap": "2 KN",
+    "KN": "2",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1024",
+    "Lengkap": "1 KN",
+    "KN": "1",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1025",
+    "Lengkap": "Tidak Mendapat Imbalan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1026",
+    "Lengkap": "Berprestasi",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1027",
+    "Lengkap": "Imbalan 1 KL + L",
+    "KN": "1",
+    "Lumsum": "1",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1028",
+    "Lengkap": "Imbalan 2 KL + L",
+    "KN": "2",
+    "Lumsum": "1",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1029",
+    "Lengkap": "PENGEMBALIAN PANGKAT",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2011",
+    "Lengkap": "Skorsing 1 Bulan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2012",
+    "Lengkap": "Skorsing 2 Bulan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2013",
+    "Lengkap": "Skorsing 3 Bulan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2014",
+    "Lengkap": "Skorsing 4 Bulan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2015",
+    "Lengkap": "Skorsing 5 Bulan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2016",
+    "Lengkap": "Skorsing 6 Bulan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2021",
+    "Lengkap": "Sangsi Ringan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2022",
+    "Lengkap": "Teguran Lisan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2023",
+    "Lengkap": "Teguran Tertulis",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2024",
+    "Lengkap": "Perny. Tdk Puas Secara Tertulis",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2031",
+    "Lengkap": "Hukuman Disiplin Ringan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2032",
+    "Lengkap": "Penundaan Gaji Berkala Max 1 TH",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2033",
+    "Lengkap": "Penurunan Gaji 1 Kali",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2034",
+    "Lengkap": "Penundaan PAngkat-MAx 1 TH",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2041",
+    "Lengkap": "Hukuman Disiplin Berat",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2042",
+    "Lengkap": "Penurunan PAngkat 1 tingkat",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2043",
+    "Lengkap": "Pembebasan dari Jabatan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2044",
+    "Lengkap": "Pemberhentian Dengan Hormat",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2045",
+    "Lengkap": "Pemberhentian Dgn Tdk Hormat",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2046",
+    "Lengkap": "Peringatan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2047",
+    "Lengkap": "Peringatan Keras",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2049",
+    "Lengkap": "Pembebasan Tugas",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2050",
+    "Lengkap": "Pembinaan/Conseling",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2051",
+    "Lengkap": "PENURUNAN JABATAN",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2052",
+    "Lengkap": "Penurunan Ruang/Golongan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2053",
+    "Lengkap": "Pensiun",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2054",
+    "Lengkap": "Penghapusan T.Jabatan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2055",
+    "Lengkap": "DINAS KEP. KANTOR",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2056",
+    "Lengkap": "Demosi Jabatan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2057",
+    "Lengkap": "PEMBERHENTIAN SEMENTARA",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2058",
+    "Lengkap": "PENURUNAN PERSONAL GRADE",
+    "KN": null,
+    "Lumsum": null,
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2059",
+    "Lengkap": "Pencabutan Mandat",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2060",
+    "Lengkap": "Pemberhentian dengan hormat bukan atas permintaan sendiri",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1011",
+    "Lengkap": "Pengabdian 15 Tahun",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1012",
+    "Lengkap": "Pengabdian 25 Tahun",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1013",
+    "Lengkap": "Pengabdian 30 Tahun",
+    "KN": null,
+    "Lumsum": null,
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1014",
+    "Lengkap": "Pengabdian",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1015",
+    "Lengkap": "PPKP",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1021",
+    "Lengkap": "3 KN + Lumsum",
+    "KN": "3",
+    "Lumsum": "1",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1022",
+    "Lengkap": "2 KN + Lumsum",
+    "KN": "2",
+    "Lumsum": "1",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1023",
+    "Lengkap": "2 KN",
+    "KN": "2",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1024",
+    "Lengkap": "1 KN",
+    "KN": "1",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1025",
+    "Lengkap": "Tidak Mendapat Imbalan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1026",
+    "Lengkap": "Berprestasi",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1027",
+    "Lengkap": "Imbalan 1 KL + L",
+    "KN": "1",
+    "Lumsum": "1",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1028",
+    "Lengkap": "Imbalan 2 KL + L",
+    "KN": "2",
+    "Lumsum": "1",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "1029",
+    "Lengkap": "PENGEMBALIAN PANGKAT",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2011",
+    "Lengkap": "Skorsing 1 Bulan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2012",
+    "Lengkap": "Skorsing 2 Bulan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2013",
+    "Lengkap": "Skorsing 3 Bulan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2014",
+    "Lengkap": "Skorsing 4 Bulan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2015",
+    "Lengkap": "Skorsing 5 Bulan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2016",
+    "Lengkap": "Skorsing 6 Bulan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2021",
+    "Lengkap": "Sangsi Ringan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2022",
+    "Lengkap": "Teguran Lisan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2023",
+    "Lengkap": "Teguran Tertulis",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2024",
+    "Lengkap": "Perny. Tdk Puas Secara Tertulis",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2031",
+    "Lengkap": "Hukuman Disiplin Ringan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2032",
+    "Lengkap": "Penundaan Gaji Berkala Max 1 TH",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2033",
+    "Lengkap": "Penurunan Gaji 1 Kali",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2034",
+    "Lengkap": "Penundaan PAngkat-MAx 1 TH",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2041",
+    "Lengkap": "Hukuman Disiplin Berat",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2042",
+    "Lengkap": "Penurunan PAngkat 1 tingkat",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2043",
+    "Lengkap": "Pembebasan dari Jabatan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2044",
+    "Lengkap": "Pemberhentian Dengan Hormat",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2045",
+    "Lengkap": "Pemberhentian Dgn Tdk Hormat",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2046",
+    "Lengkap": "Peringatan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2047",
+    "Lengkap": "Peringatan Keras",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2049",
+    "Lengkap": "Pembebasan Tugas",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2050",
+    "Lengkap": "Pembinaan/Conseling",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2051",
+    "Lengkap": "PENURUNAN JABATAN",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2052",
+    "Lengkap": "Penurunan Ruang/Golongan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2053",
+    "Lengkap": "Pensiun",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2054",
+    "Lengkap": "Penghapusan T.Jabatan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2055",
+    "Lengkap": "DINAS KEP. KANTOR",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2056",
+    "Lengkap": "Demosi Jabatan",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2057",
+    "Lengkap": "PEMBERHENTIAN SEMENTARA",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2058",
+    "Lengkap": "PENURUNAN PERSONAL GRADE",
+    "KN": null,
+    "Lumsum": null,
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2059",
+    "Lengkap": "Pencabutan Mandat",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  },
+  {
+    "sandi": "2060",
+    "Lengkap": "Pemberhentian dengan hormat bukan atas permintaan sendiri",
+    "KN": "0",
+    "Lumsum": "0",
+    "usrCrea": null,
+    "usrTime": null,
+    "statRec": null
+  }
+]

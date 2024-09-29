@@ -1,0 +1,66 @@
+[
+    {
+        "idunit": 1,
+        "NM_UNIT": "PENGEMUDI"
+    },
+    {
+        "idunit": 2,
+        "NM_UNIT": "MARKETING"
+    },
+    {
+        "idunit": 3,
+        "NM_UNIT": "OUTSOURCING PRAMUBAKTI"
+    },
+    {
+        "idunit": 4,
+        "NM_UNIT": "CLEANING SERVICE"
+    },
+    {
+        "idunit": 5,
+        "NM_UNIT": "SECURITY"
+    },
+    {
+        "idunit": 6,
+        "NM_UNIT": "ADMINISTRASI"
+    },
+    {
+        "idunit": 7,
+        "NM_UNIT": "OPERATOR IT"
+    },
+    {
+        "idunit": 8,
+        "NM_UNIT": "OPERATOR TELPON"
+    },
+    {
+        "idunit": 9,
+        "NM_UNIT": "TEKNISI"
+    },
+    {
+        "idunit": 10,
+        "NM_UNIT": "KASIR SAMSAT"
+    },
+    {
+        "idunit": 11,
+        "NM_UNIT": "OUTSOURCING LAINNYA"
+    },
+    {
+        "idunit": 12,
+        "NM_UNIT": "KASIR"
+    },
+    {
+        "idunit": 14,
+        "NM_UNIT": "IT OUTSOURCING BERPENGALAMAN"
+    },
+    {
+        "idunit": 15,
+        "NM_UNIT": "IT SUPPORT"
+    },
+    {
+        "idunit": 16,
+        "NM_UNIT": "IT Development"
+    },
+    {
+        "idunit": 17,
+        "NM_UNIT": "PEMASARAN"
+    }
+]

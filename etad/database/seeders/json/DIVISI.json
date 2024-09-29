@@ -1,0 +1,1165 @@
+{
+    "DIVISI": [
+        {
+            "Sandi": "E24",
+            "Lengkap": "DIVISI BISNIS SYARIAH",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": null,
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "E25",
+            "Lengkap": "TIM SPIN OFF",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": null,
+            "limit": null,
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A46",
+            "Lengkap": "Learning Center",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": null,
+            "limit": "1000000000",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A47",
+            "Lengkap": "Divisi Kredit Komersial Korporasi & Sindikasi",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A48",
+            "Lengkap": "Divisi Risiko Bisnis",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A49",
+            "Lengkap": "DIVISI DANA DAN JASA",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": null,
+            "limit": "1000000000",
+            "kd_ojk": null
+        },
+        {
+            "Sandi": "A50",
+            "Lengkap": "DIVISI OPERASI",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": null,
+            "limit": "1000000000",
+            "kd_ojk": null
+        },
+        {
+            "Sandi": "A51",
+            "Lengkap": "Divisi Penyelamatan dan Penyelesaian Kredit",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": null,
+            "limit": "1000000000",
+            "kd_ojk": null
+        },
+        {
+            "Sandi": "A52",
+            "Lengkap": "X Divisi Perencanaan Strategis dan Manajemen Kinerja",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": null,
+            "limit": null,
+            "kd_ojk": null
+        },
+        {
+            "Sandi": "A53",
+            "Lengkap": "Divisi Audit Internal",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": null,
+            "limit": "1000000000",
+            "kd_ojk": null
+        },
+        {
+            "Sandi": "A54",
+            "Lengkap": "SEVP PERENCANAAN STRATEGIS & PEMBINAAN CABANG",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": null,
+            "limit": "100000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "E26",
+            "Lengkap": "SEVP SYARIAH",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": null,
+            "limit": "100000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A04",
+            "Lengkap": "Biro Adm. Keuangan",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A12",
+            "Lengkap": "Biro Dana & Akuntansi",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A09",
+            "Lengkap": "Biro Direksi",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A07",
+            "Lengkap": "Biro Kredit",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A14",
+            "Lengkap": "Biro Pemasaran",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A03",
+            "Lengkap": "Biro Pengawasan",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A06",
+            "Lengkap": "Biro Penyel. Kredit",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A02",
+            "Lengkap": "Biro Perencanaan",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A13",
+            "Lengkap": "Biro Perkreditan",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A10",
+            "Lengkap": "Biro Personalia",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A11",
+            "Lengkap": "Biro Riset & Perencanaan",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A01",
+            "Lengkap": "Biro Sumber Daya Manusia",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A05",
+            "Lengkap": "Biro Treasury",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A08",
+            "Lengkap": "Biro Umum",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "C25",
+            "Lengkap": "Cab. Bangkalan",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "020000000   "
+        },
+        {
+            "Sandi": "C43",
+            "Lengkap": "Cab. Batam",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "3",
+            "limit": "10000000",
+            "kd_ojk": "044000000   "
+        },
+        {
+            "Sandi": "C40",
+            "Lengkap": "Cab. Batu",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "3",
+            "limit": "10000000",
+            "kd_ojk": "039000000   "
+        },
+        {
+            "Sandi": "C36",
+            "Lengkap": "Cab. Bawean",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "3",
+            "limit": "10000000",
+            "kd_ojk": "040000000   "
+        },
+        {
+            "Sandi": "C14",
+            "Lengkap": "Cab. Blitar",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "014000000   "
+        },
+        {
+            "Sandi": "C08",
+            "Lengkap": "Cab. Bojonegoro",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "008000000   "
+        },
+        {
+            "Sandi": "C31",
+            "Lengkap": "Cab. Bondowoso",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "033000000   "
+        },
+        {
+            "Sandi": "C32",
+            "Lengkap": "Cab. Dr. Soetomo",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "035000000   "
+        },
+        {
+            "Sandi": "C27",
+            "Lengkap": "Cab. Gresik",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "029000000   "
+        },
+        {
+            "Sandi": "C65",
+            "Lengkap": "Cab. HR MUHAMMAD",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "042000000   "
+        },
+        {
+            "Sandi": "C35",
+            "Lengkap": "Cab. Jakarta",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "KHUSUS",
+            "limit": "25000000",
+            "kd_ojk": "038000000   "
+        },
+        {
+            "Sandi": "C11",
+            "Lengkap": "Cab. Jombang",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "011000000   "
+        },
+        {
+            "Sandi": "C34",
+            "Lengkap": "Cab. Kangean",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "3",
+            "limit": "10000000",
+            "kd_ojk": "037000000   "
+        },
+        {
+            "Sandi": "C60",
+            "Lengkap": "Cab. Kepanjen",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "3",
+            "limit": "10000000",
+            "kd_ojk": "043000000   "
+        },
+        {
+            "Sandi": "C13",
+            "Lengkap": "Cab. Kraksaan",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "012000000   "
+        },
+        {
+            "Sandi": "C28",
+            "Lengkap": "Cab. Lamongan",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "031000000   "
+        },
+        {
+            "Sandi": "C09",
+            "Lengkap": "Cab. Lumajang",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "009000000   "
+        },
+        {
+            "Sandi": "C30",
+            "Lengkap": "Cab. Magetan",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "034000000   "
+        },
+        {
+            "Sandi": "C16",
+            "Lengkap": "Cab. Mojokerto",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "017000000   "
+        },
+        {
+            "Sandi": "C19",
+            "Lengkap": "Cab. Nganjuk",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "022000000   "
+        },
+        {
+            "Sandi": "C10",
+            "Lengkap": "Cab. Ngawi",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "010000000   "
+        },
+        {
+            "Sandi": "C21",
+            "Lengkap": "Cab. Pacitan",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "025000000   "
+        },
+        {
+            "Sandi": "C07",
+            "Lengkap": "Cab. Pamekasan",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "007000000   "
+        },
+        {
+            "Sandi": "C42",
+            "Lengkap": "Cab. Pare",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "3",
+            "limit": "10000000",
+            "kd_ojk": "041000000   "
+        },
+        {
+            "Sandi": "C23",
+            "Lengkap": "Cab. Pasuruan",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "021000000   "
+        },
+        {
+            "Sandi": "C33",
+            "Lengkap": "Cab. Perak",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "036000000   "
+        },
+        {
+            "Sandi": "C20",
+            "Lengkap": "Cab. Ponorogo",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "024000000   "
+        },
+        {
+            "Sandi": "C12",
+            "Lengkap": "Cab. Probolinggo",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "013000000   "
+        },
+        {
+            "Sandi": "C24",
+            "Lengkap": "Cab. Sampang",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "019000000   "
+        },
+        {
+            "Sandi": "C26",
+            "Lengkap": "Cab. Sidoarjo",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "1",
+            "limit": "20000000",
+            "kd_ojk": "030000000   "
+        },
+        {
+            "Sandi": "C29",
+            "Lengkap": "Cab. Situbondo",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "032000000   "
+        },
+        {
+            "Sandi": "C18",
+            "Lengkap": "Cab. Sumenep",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "018000000   "
+        },
+        {
+            "Sandi": "C95",
+            "Lengkap": "Cab. Syariah Gresik",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "3",
+            "limit": "10000000",
+            "kd_ojk": "996000000   "
+        },
+        {
+            "Sandi": "C94",
+            "Lengkap": "Cab. Syariah Jember",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "3",
+            "limit": "10000000",
+            "kd_ojk": "997000000   "
+        },
+        {
+            "Sandi": "C98",
+            "Lengkap": "Cab. Syariah Kediri",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "3",
+            "limit": "10000000",
+            "kd_ojk": "993000000   "
+        },
+        {
+            "Sandi": "C96",
+            "Lengkap": "Cab. Syariah Madiun",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "3",
+            "limit": "10000000",
+            "kd_ojk": "995000000   "
+        },
+        {
+            "Sandi": "C97",
+            "Lengkap": "Cab. Syariah Malang",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "3",
+            "limit": "10000000",
+            "kd_ojk": "994000000   "
+        },
+        {
+            "Sandi": "C93",
+            "Lengkap": "Cab. Syariah Sidoarjo",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "3",
+            "limit": "10000000",
+            "kd_ojk": "998000000   "
+        },
+        {
+            "Sandi": "C99",
+            "Lengkap": "Cab. Syariah Surabaya",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "992000000   "
+        },
+        {
+            "Sandi": "C22",
+            "Lengkap": "Cab. Trenggalek",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "023000000   "
+        },
+        {
+            "Sandi": "C17",
+            "Lengkap": "Cab. Tuban",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "016000000   "
+        },
+        {
+            "Sandi": "C15",
+            "Lengkap": "Cab. Tulungagung",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "2",
+            "limit": "15000000",
+            "kd_ojk": "015000000   "
+        },
+        {
+            "Sandi": "E04",
+            "Lengkap": "Capem Caruban",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E07",
+            "Lengkap": "Capem Mojoagung",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E10",
+            "Lengkap": "Capem Mojosari",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E09",
+            "Lengkap": "Capem Ngunut",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E05",
+            "Lengkap": "Capem Pasirian",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E01",
+            "Lengkap": "Capem Rajawali",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E03",
+            "Lengkap": "Capem Tanggul",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E02",
+            "Lengkap": "Capem Univ. Wijaya Kusuma",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E06",
+            "Lengkap": "Capem Walikukun",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E08",
+            "Lengkap": "Capem Wlingi",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A28",
+            "Lengkap": "CORPORATE SECRETARY",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "100000000",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A00",
+            "Lengkap": "DIREKSI",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "999999999",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E15",
+            "Lengkap": "Ditempatkan pada Divisi SDM",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "D11",
+            "Lengkap": "Ditempatkan pd YKP sbg Bendaha",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "D09",
+            "Lengkap": "ditempatkan pd YKP sbg Ketua",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "D10",
+            "Lengkap": "Ditempatkan pd YKP sbg Sekreta",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "D12",
+            "Lengkap": "Ditempatkan sbg Sekret DPP",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E13",
+            "Lengkap": "Ditempatkan sebagai Bendahara DPP",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E12",
+            "Lengkap": "Ditempatkan sebagai ketua DPP",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E33",
+            "Lengkap": "DIVISI AKUNTANSI",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A43",
+            "Lengkap": "Divisi Anggaran Dan Pengendalian Keuangan",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A20",
+            "Lengkap": "DIVISI AUDIT INTERN",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A33",
+            "Lengkap": "Divisi Dana Jasa Dan E-Banking",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A18",
+            "Lengkap": "DIVISI DANA JASA DAN LN",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A34",
+            "Lengkap": "Divisi Hubungan Kelembagaan dan Bisnis",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A31",
+            "Lengkap": "DIVISI HUKUM",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A35",
+            "Lengkap": "Divisi Human Capital",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A36",
+            "Lengkap": "Divisi International Banking",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "E20",
+            "Lengkap": "DIVISI KEPATUHAN",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A37",
+            "Lengkap": "Divisi Kepatuhan Dan Tata Kelola",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A16",
+            "Lengkap": "DIVISI KREDIT",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "E22",
+            "Lengkap": "DIVISI KREDIT AGROBISNIS DAN  RITEL",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A24",
+            "Lengkap": "DIVISI KREDIT KHUSUS",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A44",
+            "Lengkap": "Divisi Kredit Konsumer",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A38",
+            "Lengkap": "Divisi Kredit Menengah  Korporasi Dan Sindikasi",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "E21",
+            "Lengkap": "DIVISI KREDIT MENENGAH DAN  KORPORASI",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A39",
+            "Lengkap": "Divisi Kredit Mikro, Ritel Dan  Program",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A29",
+            "Lengkap": "DIVISI MANAJEMEN RISIKO",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "E23",
+            "Lengkap": "DIVISI OPERASIONAL JARINGAN DAN  LAYANAN SYARIAH",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "E17",
+            "Lengkap": "DIVISI PENDUKUNG BISNIS SYARIAH",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A41",
+            "Lengkap": "Divisi Penyelamatan Penyelesaian Kredit",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A19",
+            "Lengkap": "DIVISI PERENCANAAN STRATEGIS",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A42",
+            "Lengkap": "Divisi Perencanaan Strategis Dan Manajemen Kinerja",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A30",
+            "Lengkap": "DIVISI RISIKO KREDIT",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A26",
+            "Lengkap": "DIVISI SDM",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A45",
+            "Lengkap": "Divisi Service Quality Assurance",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A22",
+            "Lengkap": "DIVISI TEKNOLOGI INFORMASI",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "E34",
+            "Lengkap": "DIVISI TRESURI",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "A25",
+            "Lengkap": "DIVISI UMUM",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "114000000   "
+        },
+        {
+            "Sandi": "E11",
+            "Lengkap": "DPP",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "D13",
+            "Lengkap": "Kantor Kas Tambak Rejo",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A15",
+            "Lengkap": "Kantor Pusat",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E18",
+            "Lengkap": "KOPERASI",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "N\/A",
+            "Lengkap": "N\/A",
+            "kd_cab": null,
+            "STAT_KANTOR": "N\/A",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "D07",
+            "Lengkap": "RAINDO PUTRA",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E36",
+            "Lengkap": "Trinisat",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "A27",
+            "Lengkap": "Unit Kepatuhan & Mengenal Nsb",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E35",
+            "Lengkap": "UNIT PENANGANAN KREDIT BERMASALAH",
+            "kd_cab": "0.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "C39",
+            "Lengkap": "UNIT USAHA SYARIAH",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C11",
+            "kelas": "-",
+            "limit": "-",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E19",
+            "Lengkap": "YAYASAN KESEJAHTERAAN PEGAWAI",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": "-",
+            "limit": "1000000000",
+            "kd_ojk": "-           "
+        },
+        {
+            "Sandi": "E37",
+            "Lengkap": "Divisi Pengendalian Keuangan",
+            "kd_cab": "1.0",
+            "STAT_KANTOR": "C00",
+            "kelas": null,
+            "limit": "1000000000",
+            "kd_ojk": null
+        }
+    ]
+}

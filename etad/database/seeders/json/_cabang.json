@@ -1,0 +1,616 @@
+[
+    {
+        "code": "A22",
+        "name": "DIVISI TEKNOLOGI INFORMASI",
+        "parent_name": "DIREKTUR IT & DIGITAL",
+        "status": 1
+    },
+    {
+        "code": "A18",
+        "name": "DIVISI DANA JASA DAN LN",
+        "parent_code": "A68",
+        "parent_name": "SEVP Corporate Transformation",
+        "status": 1
+    },
+    {
+        "code": "A25",
+        "name": "DIVISI UMUM",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "A28",
+        "name": "CORPORATE SECRETARY",
+        "parent_name": "DIREKTUR UTAMA",
+        "status": 1
+    },
+    {
+        "code": "A30",
+        "name": "DIVISI ANALISIS RISIKO KREDIT",
+        "parent_name": "DIREKTUR KEPATUHAN",
+        "status": 1
+    },
+    {
+        "code": "A31",
+        "name": "DIVISI HUKUM",
+        "parent_name": "DIREKTUR KEPATUHAN",
+        "status": 1
+    },
+    {
+        "code": "A34",
+        "name": "Divisi Hubungan Kelembagaan dan Bisnis",
+        "parent_code": "A68",
+        "parent_name": "SEVP Corporate Transformation",
+        "status": 1
+    },
+    {
+        "code": "A35",
+        "name": "Divisi Human Capital",
+        "parent_code": "A68",
+        "parent_name": "SEVP Corporate Transformation",
+        "status": 1
+    },
+    {
+        "code": "A36",
+        "name": "Divisi International Banking",
+        "parent_name": "DIREKTUR KEUANGAN, TREASURY & GLOBAL SERVICES",
+        "status": 1
+    },
+    {
+        "code": "A37",
+        "name": "Divisi Kepatuhan Dan APU PPT",
+        "parent_name": "DIREKTUR KEPATUHAN",
+        "status": 1
+    },
+    {
+        "code": "A38",
+        "name": "Divisi Kredit Menengah  Korporasi Dan Sindikasi",
+        "parent_code": "A68",
+        "parent_name": "SEVP Corporate Transformation",
+        "status": 1
+    },
+    {
+        "code": "A39",
+        "name": "Divisi Kredit Mikro, Ritel Dan  Program",
+        "status": 0
+    },
+    {
+        "code": "A40",
+        "name": "Divisi Manajemen Risiko Perusahaan",
+        "status": 0
+    },
+    {
+        "code": "A41",
+        "name": "Divisi Penyelamatan Penyelesaian Kredit",
+        "status": 0
+    },
+    {
+        "code": "A42",
+        "name": "Divisi Perencanaan Strategis Dan Manajemen Kinerja",
+        "parent_code": "A68",
+        "parent_name": "SEVP Corporate Transformation",
+        "status": 1
+    },
+    {
+        "code": "A44",
+        "name": "Divisi Kredit Konsumer",
+        "parent_code": "A79",
+        "parent_name": "SEVP CONSUMER BANKING",
+        "status": 1
+    },
+    {
+        "code": "A45",
+        "name": "Divisi Service Quality Assurance",
+        "parent_code": "A79",
+        "parent_name": "SEVP CONSUMER BANKING",
+        "status": 1
+    },
+    {
+        "code": "A47",
+        "name": "Divisi Kredit Komersial Korporasi & Sindikasi",
+        "parent_code": "A84",
+        "parent_name": "SEVP Korporasi, Sindikasi dan Kelembagaan",
+        "status": 1
+    },
+    {
+        "code": "A48",
+        "name": "Divisi Risiko Bisnis",
+        "status": 0
+    },
+    {
+        "code": "A49",
+        "name": "DIVISI DANA DAN JASA",
+        "parent_code": "A79",
+        "parent_name": "SEVP CONSUMER BANKING",
+        "status": 1
+    },
+    {
+        "code": "A50",
+        "name": "DIVISI OPERASI",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "A53",
+        "name": "Divisi Audit Internal",
+        "parent_name": "DIREKTUR UTAMA",
+        "status": 1
+    },
+    {
+        "code": "A56",
+        "name": "Divisi Manajemen Risiko ",
+        "parent_name": "DIREKTUR MANAJEMEN RISIKO",
+        "status": 1
+    },
+    {
+        "code": "A57",
+        "name": "Unit Administrasi Kredit ",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "A58",
+        "name": "Divisi Digital Banking",
+        "parent_name": "DIREKTUR IT & DIGITAL",
+        "status": 1
+    },
+    {
+        "code": "A59",
+        "name": "Unit Pendukung Bisnis Syariah",
+        "status": 0
+    },
+    {
+        "code": "A60",
+        "name": "Divisi Risiko Kredit",
+        "parent_name": "DIREKTUR MANAJEMEN RISIKO",
+        "status": 1
+    },
+    {
+        "code": "A61",
+        "name": "Divisi Akuntansi dan Manajemen Keuangan",
+        "parent_name": "DIREKTUR KEUANGAN, TREASURY & GLOBAL SERVICES",
+        "status": 1
+    },
+    {
+        "code": "A62",
+        "name": "Unit Security Teknologi Informasi",
+        "parent_name": "DIREKTUR IT & DIGITAL",
+        "status": 1
+    },
+    {
+        "code": "A63",
+        "name": "SEVP Network and Services",
+        "parent_name": "DIREKTUR UTAMA",
+        "status": 1
+    },
+    {
+        "code": "A65",
+        "name": "Divisi Network & Services Management",
+        "parent_code": "A63",
+        "parent_name": "SEVP Network and Services",
+        "status": 1
+    },
+    {
+        "code": "A66",
+        "name": "Divisi Pengembangan Produk",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "A67",
+        "name": "Divisi Subsdiary Management",
+        "parent_code": "A63",
+        "parent_name": "SEVP Network and Services",
+        "status": 1
+    },
+    {
+        "code": "A68",
+        "name": "SEVP Corporate Transformation",
+        "parent_name": "DIREKTUR UTAMA",
+        "status": 1
+    },
+    {
+        "code": "A69",
+        "name": "Divisi Credit Restructuring & Recovery",
+        "status": 0
+    },
+    {
+        "code": "A70",
+        "name": "Divisi Risk Management",
+        "status": 0
+    },
+    {
+        "code": "A71",
+        "name": "Divisi Sharia Business",
+        "status": 0
+    },
+    {
+        "code": "A72",
+        "name": "Divisi Accounting & Financial Management",
+        "status": 0
+    },
+    {
+        "code": "A73",
+        "name": "Divisi Kredit Mikro, Ritel Dan Menengah",
+        "status": 0
+    },
+    {
+        "code": "A75",
+        "name": "Divisi Sharia Business Support",
+        "status": 0
+    },
+    {
+        "code": "A76",
+        "name": "Divisi Fund & Services",
+        "status": 0
+    },
+    {
+        "code": "A77",
+        "name": "Divisi Commercial, Corporation & Syndication Credit",
+        "status": 0
+    },
+    {
+        "code": "A78",
+        "name": "Divisi Consumer Credit",
+        "status": 0
+    },
+    {
+        "code": "A79",
+        "name": "SEVP CONSUMER BANKING",
+        "parent_name": "DIREKTUR UTAMA",
+        "status": 1
+    },
+    {
+        "code": "A80",
+        "name": "Unit Hubungan Kelembagaan",
+        "parent_code": "A84",
+        "parent_name": "SEVP Korporasi, Sindikasi dan Kelembagaan",
+        "status": 1
+    },
+    {
+        "code": "A81",
+        "name": "Divisi Kredit Mikro",
+        "parent_name": "DIREKTUR MIKRO, RITEL & MENENGAH",
+        "status": 1
+    },
+    {
+        "code": "A82",
+        "name": "Divisi Kebijakan & Prosedur",
+        "parent_name": "DIREKTUR KEPATUHAN",
+        "status": 1
+    },
+    {
+        "code": "A83",
+        "name": "Divisi Kredit Ritel & Menengah",
+        "parent_name": "DIREKTUR MIKRO, RITEL & MENENGAH",
+        "status": 1
+    },
+    {
+        "code": "A84",
+        "name": "SEVP Korporasi, Sindikasi dan Kelembagaan",
+        "parent_name": "DIREKTUR UTAMA",
+        "status": 1
+    },
+    {
+        "code": "A85",
+        "name": "Divisi Restrukturisasi dan Pemulihan Kredit",
+        "parent_name": "DIREKTUR MANAJEMEN RISIKO",
+        "status": 1
+    },
+    {
+        "code": "C07",
+        "name": "Cab. Pamekasan",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C08",
+        "name": "Cab. Bojonegoro",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C09",
+        "name": "Cab. Lumajang",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C10",
+        "name": "Cab. Ngawi",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C11",
+        "name": "Cab. Jombang",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C12",
+        "name": "Cab. Probolinggo",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C13",
+        "name": "Cab. Kraksaan",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C14",
+        "name": "Cab. Blitar",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C15",
+        "name": "Cab. Tulungagung",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C16",
+        "name": "Cab. Mojokerto",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C17",
+        "name": "Cab. Tuban",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C18",
+        "name": "Cab. Sumenep",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C19",
+        "name": "Cab. Nganjuk",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C20",
+        "name": "Cab. Ponorogo",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C21",
+        "name": "Cab. Pacitan",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C22",
+        "name": "Cab. Trenggalek",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C23",
+        "name": "Cab. Pasuruan",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C24",
+        "name": "Cab. Sampang",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C25",
+        "name": "Cab. Bangkalan",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C26",
+        "name": "Cab. Sidoarjo",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C27",
+        "name": "Cab. Gresik",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C28",
+        "name": "Cab. Lamongan",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C29",
+        "name": "Cab. Situbondo",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C30",
+        "name": "Cab. Magetan",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C31",
+        "name": "Cab. Bondowoso",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C32",
+        "name": "Cab. Dr. Soetomo",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C33",
+        "name": "Cab. Perak",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C34",
+        "name": "Cab. Kangean",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C35",
+        "name": "Cab. Jakarta",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C36",
+        "name": "Cab. Bawean",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C40",
+        "name": "Cab. Batu",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C42",
+        "name": "Cab. Pare",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C43",
+        "name": "Cab. Batam",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C60",
+        "name": "Cab. Kepanjen",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C65",
+        "name": "Cab. HR MUHAMMAD",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C93",
+        "name": "Cab. Syariah Sidoarjo",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C94",
+        "name": "Cab. Syariah Jember",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C95",
+        "name": "Cab. Syariah Gresik",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C96",
+        "name": "Cab. Syariah Madiun",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C97",
+        "name": "Cab. Syariah Malang",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C98",
+        "name": "Cab. Syariah Kediri",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "C99",
+        "name": "Cab. Syariah Surabaya",
+        "parent_name": "DIREKTUR OPERASI",
+        "status": 1
+    },
+    {
+        "code": "E11",
+        "name": "DPP",
+        "parent_code": "A63",
+        "parent_name": "SEVP Network and Services",
+        "status": 1
+    },
+    {
+        "code": "E17",
+        "name": "DIVISI PENDUKUNG BISNIS SYARIAH",
+        "parent_code": "E27",
+        "parent_name": "SEVP Usaha Syariah",
+        "status": 1
+    },
+    {
+        "code": "E19",
+        "name": "YAYASAN KESEJAHTERAAN PEGAWAI",
+        "parent_code": "A63",
+        "parent_name": "SEVP Network and Services",
+        "status": 1
+    },
+    {
+        "code": "E24",
+        "name": "DIVISI BISNIS SYARIAH",
+        "parent_code": "E27",
+        "parent_name": "DIREKTUR UTAMA",
+        "status": 1
+    },
+    {
+        "code": "E26",
+        "name": "SEVP SYARIAH",
+        "parent_name": "DIREKTUR UTAMA",
+        "status": 1
+    },
+    {
+        "code": "E27",
+        "name": "SEVP Usaha Syariah",
+        "parent_name": "DIREKTUR UTAMA",
+        "status": 1
+    },
+    {
+        "code": "E34",
+        "name": "DIVISI TRESURI",
+        "parent_name": "DIREKTUR KEUANGAN, TREASURY & GLOBAL SERVICES",
+        "status": 1
+    },
+    {
+        "code": "E37",
+        "name": "Divisi Pengendalian Keuangan",
+        "parent_name": "DIREKTUR UTAMA",
+        "status": 0
+    },
+    {
+        "code": "E38",
+        "name": "Divisi RPK",
+        "parent_name": "DIREKTUR UTAMA",
+        "status": 0
+    },
+    {
+        "code": "A32",
+        "name": "Divisi Pengembangan Produk & Kebijakan",
+        "parent_name": "DIREKTUR UTAMA",
+        "status": 0
+    }
+]

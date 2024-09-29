@@ -1,0 +1,95 @@
+{
+    "SEKOLAH": [
+        {
+            "sandi": "1",
+            "lengkap": "TK",
+            "usrCrea": null,
+            "usrTime": null,
+            "statusRec": null
+        },
+        {
+            "sandi": "2",
+            "lengkap": "SD",
+            "usrCrea": null,
+            "usrTime": null,
+            "statusRec": null
+        },
+        {
+            "sandi": "3",
+            "lengkap": "SLTP",
+            "usrCrea": null,
+            "usrTime": null,
+            "statusRec": null
+        },
+        {
+            "sandi": "4",
+            "lengkap": "SLTA",
+            "usrCrea": null,
+            "usrTime": null,
+            "statusRec": null
+        },
+        {
+            "sandi": "6",
+            "lengkap": "Diploma 1",
+            "usrCrea": null,
+            "usrTime": null,
+            "statusRec": null
+        },
+        {
+            "sandi": "7",
+            "lengkap": "Sarj. Muda, D3",
+            "usrCrea": null,
+            "usrTime": null,
+            "statusRec": null
+        },
+        {
+            "sandi": "8",
+            "lengkap": "Sarjana",
+            "usrCrea": null,
+            "usrTime": null,
+            "statusRec": null
+        },
+        {
+            "sandi": "9",
+            "lengkap": "S2, Master",
+            "usrCrea": null,
+            "usrTime": null,
+            "statusRec": null
+        },
+        {
+            "sandi": "10",
+            "lengkap": "S3, Phd, Dr",
+            "usrCrea": null,
+            "usrTime": null,
+            "statusRec": null
+        },
+        {
+            "sandi": "11",
+            "lengkap": "S4",
+            "usrCrea": null,
+            "usrTime": null,
+            "statusRec": null
+        },
+        {
+            "sandi": "12",
+            "lengkap": "INFORMAL",
+            "usrCrea": null,
+            "usrTime": null,
+            "statusRec": null
+        },
+        {
+            "sandi": "13",
+            "lengkap": "SEKOLAH KEJURUAN",
+            "usrCrea": null,
+            "usrTime": null,
+            "statusRec": null
+        },
+        {
+            "sandi": "14",
+            "lengkap": "SMA/SMK",
+            "usrCrea": null,
+            "usrTime": null,
+            "statusRec": null
+        }
+    ]
+}

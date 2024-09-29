@@ -1,0 +1,13 @@
+{
+    "name": "Pengajuan",
+    "alias": "pengajuan",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Pengajuan\\Providers\\PengajuanServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

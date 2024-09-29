@@ -1,0 +1,13 @@
+{
+    "name": "Punishment",
+    "alias": "punishment",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Punishment\\Providers\\PunishmentServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

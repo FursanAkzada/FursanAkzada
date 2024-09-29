@@ -1,0 +1,18 @@
+/* SELECT2 */
+.select2-container--default {
+    & .select2-selection--multiple {
+        & .select2-selection__rendered {
+            // padding: 0.65rem 3rem 0.65rem 1rem !important;
+            padding: 0.65rem 0.8rem !important
+        }
+    }
+}
+
+.badge-warning {
+  color: #ffffff;
+  background-color: #FFA800;
+}
+a.badge-warning:hover, a.badge-warning:focus {
+  color: #ffffff;
+  background-color: #cc8600;
+}

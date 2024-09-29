@@ -1,0 +1,8 @@
+{
+    "Dashboard": true,
+    "Settings": true,
+    "Master": true,
+    "Pengajuan": true,
+    "Penilaian": true,
+    "Punishment": true
+}

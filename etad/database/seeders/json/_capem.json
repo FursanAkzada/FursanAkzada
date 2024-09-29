@@ -1,0 +1,963 @@
+[
+    {
+        "code": "C0702",
+        "name": "CABANG PEMBANTU GALIS                                                                                                                                                                                   ",
+        "parent_code": "C07",
+        "parent_name": "Cab. Pamekasan"
+    },
+    {
+        "code": "C0701",
+        "name": "CABANG PEMBANTU Waru Pamekasan                                                                                                                                                                          ",
+        "parent_code": "C07",
+        "parent_name": "Cab. Pamekasan"
+    },
+    {
+        "code": "C0703",
+        "name": "CABANG PEMBANTU LARANGAN                                                                                                                                                                                ",
+        "parent_code": "C07",
+        "parent_name": "Cab. Pamekasan"
+    },
+    {
+        "code": "C0801",
+        "name": "CABANG PEMBANTU SUMBERREJO                                                                                                                                                                              ",
+        "parent_code": "C08",
+        "parent_name": "Cab. Bojonegoro"
+    },
+    {
+        "code": "C0803",
+        "name": "CABANG PEMBANTU KALITIDU                                                                                                                                                                                ",
+        "parent_code": "C08",
+        "parent_name": "Cab. Bojonegoro"
+    },
+    {
+        "code": "C0804",
+        "name": "CABANG PEMBANTU KEDUNGADEM                                                                                                                                                                              ",
+        "parent_code": "C08",
+        "parent_name": "Cab. Bojonegoro"
+    },
+    {
+        "code": "C0802",
+        "name": "CABANG PEMBANTU PADANGAN                                                                                                                                                                                ",
+        "parent_code": "C08",
+        "parent_name": "Cab. Bojonegoro"
+    },
+    {
+        "code": "C0903",
+        "name": "CABANG PEMBANTU TEMPURSARI                                                                                                                                                                              ",
+        "parent_code": "C09",
+        "parent_name": "Cab. Lumajang"
+    },
+    {
+        "code": "C0904",
+        "name": "CABANG PEMBANTU SUKODONO                                                                                                                                                                                ",
+        "parent_code": "C09",
+        "parent_name": "Cab. Lumajang"
+    },
+    {
+        "code": "C0905",
+        "name": "CABANG PEMBANTU YOSOWILANGUN                                                                                                                                                                            ",
+        "parent_code": "C09",
+        "parent_name": "Cab. Lumajang"
+    },
+    {
+        "code": "C0901",
+        "name": "CABANG PEMBANTU PASIRIAN                                                                                                                                                                                ",
+        "parent_code": "C09",
+        "parent_name": "Cab. Lumajang"
+    },
+    {
+        "code": "C0906",
+        "name": "CABANG PEMBANTU PRONOJIWO                                                                                                                                                                               ",
+        "parent_code": "C09",
+        "parent_name": "Cab. Lumajang"
+    },
+    {
+        "code": "C0902",
+        "name": "CABANG PEMBANTU RSUD DR. HARYOTO                                                                                                                                                                        ",
+        "parent_code": "C09",
+        "parent_name": "Cab. Lumajang"
+    },
+    {
+        "code": "C1005",
+        "name": "CABANG PEMBANTU KEDUNGGALAR                                                                                                                                                                             ",
+        "parent_code": "C10",
+        "parent_name": "Cab. Ngawi"
+    },
+    {
+        "code": "C1003",
+        "name": "CABANG PEMBANTU KARANGJATI                                                                                                                                                                              ",
+        "parent_code": "C10",
+        "parent_name": "Cab. Ngawi"
+    },
+    {
+        "code": "C1002",
+        "name": "CABANG PEMBANTU PARON                                                                                                                                                                                   ",
+        "parent_code": "C10",
+        "parent_name": "Cab. Ngawi"
+    },
+    {
+        "code": "C1009",
+        "name": "Cabang Pembantu Pemkab                                                                                                                                                                                  ",
+        "parent_code": "C10",
+        "parent_name": "Cab. Ngawi"
+    },
+    {
+        "code": "C1001",
+        "name": "CABANG PEMBANTU WALIKUKUN                                                                                                                                                                               ",
+        "parent_code": "C10",
+        "parent_name": "Cab. Ngawi"
+    },
+    {
+        "code": "C1008",
+        "name": "CABANG PEMBANTU GENENG                                                                                                                                                                                  ",
+        "parent_code": "C10",
+        "parent_name": "Cab. Ngawi"
+    },
+    {
+        "code": "C1007",
+        "name": "CABANG PEMBANTU NGRAMBE                                                                                                                                                                                 ",
+        "parent_code": "C10",
+        "parent_name": "Cab. Ngawi"
+    },
+    {
+        "code": "C1004",
+        "name": "CABANG PEMBANTU KENDAL                                                                                                                                                                                  ",
+        "parent_code": "C10",
+        "parent_name": "Cab. Ngawi"
+    },
+    {
+        "code": "C1006",
+        "name": "CABANG PEMBANTU MANTINGAN                                                                                                                                                                               ",
+        "parent_code": "C10",
+        "parent_name": "Cab. Ngawi"
+    },
+    {
+        "code": "C1102",
+        "name": "CABANG PEMBANTU PERAK                                                                                                                                                                                   ",
+        "parent_code": "C11",
+        "parent_name": "Cab. Jombang"
+    },
+    {
+        "code": "C1103",
+        "name": "CABANG PEMBANTU PLOSO                                                                                                                                                                                   ",
+        "parent_code": "C11",
+        "parent_name": "Cab. Jombang"
+    },
+    {
+        "code": "C1101",
+        "name": "CABANG PEMBANTU MOJOAGUNG                                                                                                                                                                               ",
+        "parent_code": "C11",
+        "parent_name": "Cab. Jombang"
+    },
+    {
+        "code": "C1201",
+        "name": "CABANG PEMBANTU LECES                                                                                                                                                                                   ",
+        "parent_code": "C12",
+        "parent_name": "Cab. Probolinggo"
+    },
+    {
+        "code": "C1202",
+        "name": "CABANG PEMBANTU TONGAS                                                                                                                                                                                  ",
+        "parent_code": "C12",
+        "parent_name": "Cab. Probolinggo"
+    },
+    {
+        "code": "C1203",
+        "name": "CABANG PEMBANTU PASAR BARU                                                                                                                                                                              ",
+        "parent_code": "C12",
+        "parent_name": "Cab. Probolinggo"
+    },
+    {
+        "code": "C1204",
+        "name": "Cabang Pembantu Gatot Subroto                                                                                                                                                                           ",
+        "parent_code": "C12",
+        "parent_name": "Cab. Probolinggo"
+    },
+    {
+        "code": "C1302",
+        "name": "CABANG PEMBANTU DRINGU                                                                                                                                                                                  ",
+        "parent_code": "C13",
+        "parent_name": "Cab. Kraksaan"
+    },
+    {
+        "code": "C1301",
+        "name": "CABANG PEMBANTU MARON                                                                                                                                                                                   ",
+        "parent_code": "C13",
+        "parent_name": "Cab. Kraksaan"
+    },
+    {
+        "code": "C1402",
+        "name": "CABANG PEMBANTU SRENGAT                                                                                                                                                                                 ",
+        "parent_code": "C14",
+        "parent_name": "Cab. Blitar"
+    },
+    {
+        "code": "C1401",
+        "name": "CABANG PEMBANTU WLINGI                                                                                                                                                                                  ",
+        "parent_code": "C14",
+        "parent_name": "Cab. Blitar"
+    },
+    {
+        "code": "C1403",
+        "name": "CABANG PEMBANTU KADEMANGAN                                                                                                                                                                              ",
+        "parent_code": "C14",
+        "parent_name": "Cab. Blitar"
+    },
+    {
+        "code": "C1404",
+        "name": "CABANG PEMBANTU KANIGORO                                                                                                                                                                                ",
+        "parent_code": "C14",
+        "parent_name": "Cab. Blitar"
+    },
+    {
+        "code": "C1405",
+        "name": "CABANG PEMBANTU LODOYO                                                                                                                                                                                  ",
+        "parent_code": "C14",
+        "parent_name": "Cab. Blitar"
+    },
+    {
+        "code": "C1504",
+        "name": "CABANG PEMBANTU CAMPURDARAT                                                                                                                                                                             ",
+        "parent_code": "C15",
+        "parent_name": "Cab. Tulungagung"
+    },
+    {
+        "code": "C1503",
+        "name": "CABANG PEMBANTU KAUMAN                                                                                                                                                                                  ",
+        "parent_code": "C15",
+        "parent_name": "Cab. Tulungagung"
+    },
+    {
+        "code": "C1501",
+        "name": "CABANG PEMBANTU NGUNUT                                                                                                                                                                                  ",
+        "parent_code": "C15",
+        "parent_name": "Cab. Tulungagung"
+    },
+    {
+        "code": "C1502",
+        "name": "CABANG PEMBANTU BANDUNG                                                                                                                                                                                 ",
+        "parent_code": "C15",
+        "parent_name": "Cab. Tulungagung"
+    },
+    {
+        "code": "C1602",
+        "name": "CABANG PEMBANTU JAYANEGARA                                                                                                                                                                              ",
+        "parent_code": "C16",
+        "parent_name": "Cab. Mojokerto"
+    },
+    {
+        "code": "C1601",
+        "name": "CABANG PEMBANTU MOJOSARI                                                                                                                                                                                ",
+        "parent_code": "C16",
+        "parent_name": "Cab. Mojokerto"
+    },
+    {
+        "code": "C1603",
+        "name": "CABANG PEMBANTU SOOKO                                                                                                                                                                                   ",
+        "parent_code": "C16",
+        "parent_name": "Cab. Mojokerto"
+    },
+    {
+        "code": "C1705",
+        "name": "CABANG PEMBANTU BANCAR                                                                                                                                                                                  ",
+        "parent_code": "C17",
+        "parent_name": "Cab. Tuban"
+    },
+    {
+        "code": "C1704",
+        "name": "CABANG PEMBANTU PRAJEKAN                                                                                                                                                                                ",
+        "parent_code": "C17",
+        "parent_name": "Cab. Tuban"
+    },
+    {
+        "code": "C1706",
+        "name": "CABANG PEMBANTU WIDANG                                                                                                                                                                                  ",
+        "parent_code": "C17",
+        "parent_name": "Cab. Tuban"
+    },
+    {
+        "code": "C1701",
+        "name": "CABANG PEMBANTU JATIROGO                                                                                                                                                                                ",
+        "parent_code": "C17",
+        "parent_name": "Cab. Tuban"
+    },
+    {
+        "code": "C1702",
+        "name": "CABANG PEMBANTU RENGEL                                                                                                                                                                                  ",
+        "parent_code": "C17",
+        "parent_name": "Cab. Tuban"
+    },
+    {
+        "code": "C1703",
+        "name": "CABANG PEMBANTU KEREK                                                                                                                                                                                   ",
+        "parent_code": "C17",
+        "parent_name": "Cab. Tuban"
+    },
+    {
+        "code": "C1802",
+        "name": "CABANG PEMBANTU KETAPANG                                                                                                                                                                                ",
+        "parent_code": "C18",
+        "parent_name": "Cab. Sumenep"
+    },
+    {
+        "code": "C1801",
+        "name": "CABANG PEMBANTU PRAGAAN                                                                                                                                                                                 ",
+        "parent_code": "C18",
+        "parent_name": "Cab. Sumenep"
+    },
+    {
+        "code": "C1803",
+        "name": "Cabang Pembantu Lenteng                                                                                                                                                                                 ",
+        "parent_code": "C18",
+        "parent_name": "Cab. Sumenep"
+    },
+    {
+        "code": "C1905",
+        "name": "Cabang Pembantu Sukomoro                                                                                                                                                                                ",
+        "parent_code": "C19",
+        "parent_name": "Cab. Nganjuk"
+    },
+    {
+        "code": "C1906",
+        "name": "CABANG PEMBANTU LENGKONG                                                                                                                                                                                ",
+        "parent_code": "C19",
+        "parent_name": "Cab. Nganjuk"
+    },
+    {
+        "code": "C1904",
+        "name": "CABANG PEMBANTU REJOSO                                                                                                                                                                                  ",
+        "parent_code": "C19",
+        "parent_name": "Cab. Nganjuk"
+    },
+    {
+        "code": "C1901",
+        "name": "CABANG PEMBANTU KERTOSONO                                                                                                                                                                               ",
+        "parent_code": "C19",
+        "parent_name": "Cab. Nganjuk"
+    },
+    {
+        "code": "C1903",
+        "name": "CABANG PEMBANTU BERBEK                                                                                                                                                                                  ",
+        "parent_code": "C19",
+        "parent_name": "Cab. Nganjuk"
+    },
+    {
+        "code": "C1902",
+        "name": "CABANG PEMBANTU TANJUNG ANOM                                                                                                                                                                            ",
+        "parent_code": "C19",
+        "parent_name": "Cab. Nganjuk"
+    },
+    {
+        "code": "C2002",
+        "name": "CABANG PEMBANTU JETIS                                                                                                                                                                                   ",
+        "parent_code": "C20",
+        "parent_name": "Cab. Ponorogo"
+    },
+    {
+        "code": "C2001",
+        "name": "CABANG PEMBANTU SUMOROTO                                                                                                                                                                                ",
+        "parent_code": "C20",
+        "parent_name": "Cab. Ponorogo"
+    },
+    {
+        "code": "C2004",
+        "name": "CABANG PEMBANTU BALONG                                                                                                                                                                                  ",
+        "parent_code": "C20",
+        "parent_name": "Cab. Ponorogo"
+    },
+    {
+        "code": "C2003",
+        "name": "CABANG PEMBANTU PULUNG                                                                                                                                                                                  ",
+        "parent_code": "C20",
+        "parent_name": "Cab. Ponorogo"
+    },
+    {
+        "code": "C2102",
+        "name": "CABANG PEMBANTU PUNUNG                                                                                                                                                                                  ",
+        "parent_code": "C21",
+        "parent_name": "Cab. Pacitan"
+    },
+    {
+        "code": "C2103",
+        "name": "CABANG PEMBANTU ARJOSARI                                                                                                                                                                                ",
+        "parent_code": "C21",
+        "parent_name": "Cab. Pacitan"
+    },
+    {
+        "code": "C2101",
+        "name": "CABANG PEMBANTU NGADIROJO                                                                                                                                                                               ",
+        "parent_code": "C21",
+        "parent_name": "Cab. Pacitan"
+    },
+    {
+        "code": "C2201",
+        "name": "CABANG PEMBANTU WATULIMO                                                                                                                                                                                ",
+        "parent_code": "C22",
+        "parent_name": "Cab. Trenggalek"
+    },
+    {
+        "code": "C2202",
+        "name": "CABANG PEMBANTU PANGGUL                                                                                                                                                                                 ",
+        "parent_code": "C22",
+        "parent_name": "Cab. Trenggalek"
+    },
+    {
+        "code": "C2203",
+        "name": "CABANG PEMBANTU KARANGAN                                                                                                                                                                                ",
+        "parent_code": "C22",
+        "parent_name": "Cab. Trenggalek"
+    },
+    {
+        "code": "C2306",
+        "name": "CABANG PEMBANTU NGULING                                                                                                                                                                                 ",
+        "parent_code": "C23",
+        "parent_name": "Cab. Pasuruan"
+    },
+    {
+        "code": "C2305",
+        "name": "CABANG PEMBANTU KEJAPANAN                                                                                                                                                                               ",
+        "parent_code": "C23",
+        "parent_name": "Cab. Pasuruan"
+    },
+    {
+        "code": "C2304",
+        "name": "CABANG PEMBANTU KEJAPANAN                                                                                                                                                                               ",
+        "parent_code": "C23",
+        "parent_name": "Cab. Pasuruan"
+    },
+    {
+        "code": "C2307",
+        "name": "CABANG PEMBANTU WARUNGDOWO                                                                                                                                                                              ",
+        "parent_code": "C23",
+        "parent_name": "Cab. Pasuruan"
+    },
+    {
+        "code": "C2308",
+        "name": "CABANG PEMBANTU NGOPAK                                                                                                                                                                                  ",
+        "parent_code": "C23",
+        "parent_name": "Cab. Pasuruan"
+    },
+    {
+        "code": "C2301",
+        "name": "CABANG PEMBANTU BANGIL                                                                                                                                                                                  ",
+        "parent_code": "C23",
+        "parent_name": "Cab. Pasuruan"
+    },
+    {
+        "code": "C2302",
+        "name": "CABANG PEMBANTU PANDAAN                                                                                                                                                                                 ",
+        "parent_code": "C23",
+        "parent_name": "Cab. Pasuruan"
+    },
+    {
+        "code": "C2303",
+        "name": "CABANG PEMBANTU PURWOSARI                                                                                                                                                                               ",
+        "parent_code": "C23",
+        "parent_name": "Cab. Pasuruan"
+    },
+    {
+        "code": "C2401",
+        "name": "CABANG PEMBANTU KETAPANG                                                                                                                                                                                ",
+        "parent_code": "C24",
+        "parent_name": "Cab. Sampang"
+    },
+    {
+        "code": "C2501",
+        "name": "CABANG PEMBANTU KAMAL                                                                                                                                                                                   ",
+        "parent_code": "C25",
+        "parent_name": "Cab. Bangkalan"
+    },
+    {
+        "code": "C2502",
+        "name": "CABANG PEMBANTU BLEGA                                                                                                                                                                                   ",
+        "parent_code": "C25",
+        "parent_name": "Cab. Bangkalan"
+    },
+    {
+        "code": "C2503",
+        "name": "CABANG PEMBANTU KWANYAR                                                                                                                                                                                 ",
+        "parent_code": "C25",
+        "parent_name": "Cab. Bangkalan"
+    },
+    {
+        "code": "C2608",
+        "name": "CABANG PEMBANTU DRIYOREJO                                                                                                                                                                               ",
+        "parent_code": "C26",
+        "parent_name": "Cab. Sidoarjo"
+    },
+    {
+        "code": "C2606",
+        "name": "CABANG PEMBANTU GEDANGAN                                                                                                                                                                                ",
+        "parent_code": "C26",
+        "parent_name": "Cab. Sidoarjo"
+    },
+    {
+        "code": "C2607",
+        "name": "CABANG PEMBANTU PORONG                                                                                                                                                                                  ",
+        "parent_code": "C26",
+        "parent_name": "Cab. Sidoarjo"
+    },
+    {
+        "code": "C2609",
+        "name": "CABANG PEMBANTU PRAMBON                                                                                                                                                                                 ",
+        "parent_code": "C26",
+        "parent_name": "Cab. Sidoarjo"
+    },
+    {
+        "code": "C2603",
+        "name": "CABANG PEMBANTU PUSPA AGRO                                                                                                                                                                              ",
+        "parent_code": "C26",
+        "parent_name": "Cab. Sidoarjo"
+    },
+    {
+        "code": "C2604",
+        "name": "CABANG PEMBANTU TULANGAN                                                                                                                                                                                ",
+        "parent_code": "C26",
+        "parent_name": "Cab. Sidoarjo"
+    },
+    {
+        "code": "C205 ",
+        "name": "CABANG PEMBANTU WARU                                                                                                                                                                                    ",
+        "parent_code": "C26",
+        "parent_name": "Cab. Sidoarjo"
+    },
+    {
+        "code": "C2601",
+        "name": "CABANG PEMBANTU TAMAN                                                                                                                                                                                   ",
+        "parent_code": "C26",
+        "parent_name": "Cab. Sidoarjo"
+    },
+    {
+        "code": "C2602",
+        "name": "CABANG PEMBANTU KRIAN                                                                                                                                                                                   ",
+        "parent_code": "C26",
+        "parent_name": "Cab. Sidoarjo"
+    },
+    {
+        "code": "C2605",
+        "name": "CABANG PEMBANTU WARU                                                                                                                                                                                    ",
+        "parent_code": "C26",
+        "parent_name": "Cab. Sidoarjo"
+    },
+    {
+        "code": "C2704",
+        "name": "CABANG PEMBANTU CERME                                                                                                                                                                                   ",
+        "parent_code": "C27",
+        "parent_name": "Cab. Gresik"
+    },
+    {
+        "code": "C2702",
+        "name": "CABANG PEMBANTU SIDAYU                                                                                                                                                                                  ",
+        "parent_code": "C27",
+        "parent_name": "Cab. Gresik"
+    },
+    {
+        "code": "C2703",
+        "name": "CABANG PEMBANTU DRIYOREJO                                                                                                                                                                               ",
+        "parent_code": "C27",
+        "parent_name": "Cab. Gresik"
+    },
+    {
+        "code": "C2706",
+        "name": "CABANG PEMBANTU MENGANTI                                                                                                                                                                                ",
+        "parent_code": "C27",
+        "parent_name": "Cab. Gresik"
+    },
+    {
+        "code": "C2705",
+        "name": "CABANG PEMBANTU BALONGPANGGANG                                                                                                                                                                          ",
+        "parent_code": "C27",
+        "parent_name": "Cab. Gresik"
+    },
+    {
+        "code": "C2805",
+        "name": "CABANG PEMBANTU MANTUP                                                                                                                                                                                  ",
+        "parent_code": "C28",
+        "parent_name": "Cab. Lamongan"
+    },
+    {
+        "code": "C2806",
+        "name": "Cabang Pembantu Kranji                                                                                                                                                                                  ",
+        "parent_code": "C28",
+        "parent_name": "Cab. Lamongan"
+    },
+    {
+        "code": "C2804",
+        "name": "CABANG PEMBANTU KARANGGENENG                                                                                                                                                                            ",
+        "parent_code": "C28",
+        "parent_name": "Cab. Lamongan"
+    },
+    {
+        "code": "C2803",
+        "name": "CABANG PEMBANTU SUGIO                                                                                                                                                                                   ",
+        "parent_code": "C28",
+        "parent_name": "Cab. Lamongan"
+    },
+    {
+        "code": "C2801",
+        "name": "CABANG PEMBANTU BABAT                                                                                                                                                                                   ",
+        "parent_code": "C28",
+        "parent_name": "Cab. Lamongan"
+    },
+    {
+        "code": "C2802",
+        "name": "CABANG PEMBANTU BRONDONG                                                                                                                                                                                ",
+        "parent_code": "C28",
+        "parent_name": "Cab. Lamongan"
+    },
+    {
+        "code": "C2901",
+        "name": "CABANG PEMBANTU BESUKI                                                                                                                                                                                  ",
+        "parent_code": "C29",
+        "parent_name": "Cab. Situbondo"
+    },
+    {
+        "code": "C2903",
+        "name": "Cabang Pembantu Dringu                                                                                                                                                                                  ",
+        "parent_code": "C29",
+        "parent_name": "Cab. Situbondo"
+    },
+    {
+        "code": "C2902",
+        "name": "CABANG PEMBANTU ASEMBAGUS                                                                                                                                                                               ",
+        "parent_code": "C29",
+        "parent_name": "Cab. Situbondo"
+    },
+    {
+        "code": "C3004",
+        "name": "CABANG PEMBANTU PLAOSAN                                                                                                                                                                                 ",
+        "parent_code": "C30",
+        "parent_name": "Cab. Magetan"
+    },
+    {
+        "code": "C3003",
+        "name": "CABANG PEMBANTU MAOSPATI                                                                                                                                                                                ",
+        "parent_code": "C30",
+        "parent_name": "Cab. Magetan"
+    },
+    {
+        "code": "C3002",
+        "name": "CABANG PEMBANTU BARAT                                                                                                                                                                                   ",
+        "parent_code": "C30",
+        "parent_name": "Cab. Magetan"
+    },
+    {
+        "code": "C3001",
+        "name": "CABANG PEMBANTU GORANG GARENG                                                                                                                                                                           ",
+        "parent_code": "C30",
+        "parent_name": "Cab. Magetan"
+    },
+    {
+        "code": "C3101",
+        "name": "CABANG PEMBANTU PRAJEKAN                                                                                                                                                                                ",
+        "parent_code": "C31",
+        "parent_name": "Cab. Bondowoso"
+    },
+    {
+        "code": "C3103",
+        "name": "CABANG PEMBANTU WONOSARI                                                                                                                                                                                ",
+        "parent_code": "C31",
+        "parent_name": "Cab. Bondowoso"
+    },
+    {
+        "code": "C3102",
+        "name": "CABANG PEMBANTU MAESAN                                                                                                                                                                                  ",
+        "parent_code": "C31",
+        "parent_name": "Cab. Bondowoso"
+    },
+    {
+        "code": "C3202",
+        "name": "CABANG PEMBANTU Mulyosari                                                                                                                                                                               ",
+        "parent_code": "C32",
+        "parent_name": "Cab. Dr. Soetomo"
+    },
+    {
+        "code": "C3201",
+        "name": "CABANG PEMBANTU RUNGKUT                                                                                                                                                                                 ",
+        "parent_code": "C32",
+        "parent_name": "Cab. Dr. Soetomo"
+    },
+    {
+        "code": "C3203",
+        "name": "CABANG PEMBANTU JUANDA                                                                                                                                                                                  ",
+        "parent_code": "C32",
+        "parent_name": "Cab. Dr. Soetomo"
+    },
+    {
+        "code": "C3204",
+        "name": "CABANG PEMBANTU KLAMPIS JAYA                                                                                                                                                                            ",
+        "parent_code": "C32",
+        "parent_name": "Cab. Dr. Soetomo"
+    },
+    {
+        "code": "C3205",
+        "name": "CABANG PEMBANTU UNTAG                                                                                                                                                                                   ",
+        "parent_code": "C32",
+        "parent_name": "Cab. Dr. Soetomo"
+    },
+    {
+        "code": "C3206",
+        "name": "CABANG PEMBANTU TENGGILIS                                                                                                                                                                               ",
+        "parent_code": "C32",
+        "parent_name": "Cab. Dr. Soetomo"
+    },
+    {
+        "code": "C3207",
+        "name": "CABANG PEMBANTU PANDUGO                                                                                                                                                                                 ",
+        "parent_code": "C32",
+        "parent_name": "Cab. Dr. Soetomo"
+    },
+    {
+        "code": "C3208",
+        "name": "CABANG PEMBANTU SIER                                                                                                                                                                                    ",
+        "parent_code": "C32",
+        "parent_name": "Cab. Dr. Soetomo"
+    },
+    {
+        "code": "C3304",
+        "name": "CABANG PEMBANTU POGOT                                                                                                                                                                                   ",
+        "parent_code": "C33",
+        "parent_name": "Cab. Perak"
+    },
+    {
+        "code": "C3305",
+        "name": "CABANG PEMBANTU PGS                                                                                                                                                                                     ",
+        "parent_code": "C33",
+        "parent_name": "Cab. Perak"
+    },
+    {
+        "code": "C3306",
+        "name": "CABANG PEMBANTU PASAR ATOM                                                                                                                                                                              ",
+        "parent_code": "C33",
+        "parent_name": "Cab. Perak"
+    },
+    {
+        "code": "C3302",
+        "name": "CABANG PEMBANTU BENOWO                                                                                                                                                                                  ",
+        "parent_code": "C33",
+        "parent_name": "Cab. Perak"
+    },
+    {
+        "code": "C3301",
+        "name": "CABANG PEMBANTU RAJAWALI                                                                                                                                                                                ",
+        "parent_code": "C33",
+        "parent_name": "Cab. Perak"
+    },
+    {
+        "code": "C3303",
+        "name": "CABANG PEMBANTU MANUKAN                                                                                                                                                                                 ",
+        "parent_code": "C33",
+        "parent_name": "Cab. Perak"
+    },
+    {
+        "code": "C3504",
+        "name": "CABANG PEMBANTU BEKASI                                                                                                                                                                                  ",
+        "parent_code": "C35",
+        "parent_name": "Cab. Jakarta"
+    },
+    {
+        "code": "C3505",
+        "name": "CABANG PEMBANTU DEPOK                                                                                                                                                                                   ",
+        "parent_code": "C35",
+        "parent_name": "Cab. Jakarta"
+    },
+    {
+        "code": "C3501",
+        "name": "CABANG PEMBANTU WOLTER MONGINSIDI                                                                                                                                                                       ",
+        "parent_code": "C35",
+        "parent_name": "Cab. Jakarta"
+    },
+    {
+        "code": "C3502",
+        "name": "CABANG PEMBANTU MANGGA DUA                                                                                                                                                                              ",
+        "parent_code": "C35",
+        "parent_name": "Cab. Jakarta"
+    },
+    {
+        "code": "C3503",
+        "name": "CABANG PEMBANTU KELAPA GADING                                                                                                                                                                           ",
+        "parent_code": "C35",
+        "parent_name": "Cab. Jakarta"
+    },
+    {
+        "code": "C3506",
+        "name": "CABANG PEMBANTU TANGERANG                                                                                                                                                                               ",
+        "parent_code": "C35",
+        "parent_name": "Cab. Jakarta"
+    },
+    {
+        "code": "C4001",
+        "name": "CABANG PEMBANTU BUMIAJI                                                                                                                                                                                 ",
+        "parent_code": "C40",
+        "parent_name": "Cab. Batu"
+    },
+    {
+        "code": "C4202",
+        "name": "CABANG PEMBANTU KEPUNG                                                                                                                                                                                  ",
+        "parent_code": "C42",
+        "parent_name": "Cab. Pare"
+    },
+    {
+        "code": "C4201",
+        "name": "CABANG PEMBANTU KANDANGAN                                                                                                                                                                               ",
+        "parent_code": "C42",
+        "parent_name": "Cab. Pare"
+    },
+    {
+        "code": "C6002",
+        "name": "CABANG PEMBANTU SUMBER PUCUNG                                                                                                                                                                           ",
+        "parent_code": "C60",
+        "parent_name": "Cab. Kepanjen"
+    },
+    {
+        "code": "C6003",
+        "name": "CABANG PEMBANTU DAMPIT                                                                                                                                                                                  ",
+        "parent_code": "C60",
+        "parent_name": "Cab. Kepanjen"
+    },
+    {
+        "code": "C6004",
+        "name": "CABANG PEMBANTU TUREN                                                                                                                                                                                   ",
+        "parent_code": "C60",
+        "parent_name": "Cab. Kepanjen"
+    },
+    {
+        "code": "C6001",
+        "name": "CABANG PEMBANTU DONOMULYO                                                                                                                                                                               ",
+        "parent_code": "C60",
+        "parent_name": "Cab. Kepanjen"
+    },
+    {
+        "code": "C6501",
+        "name": "CABANG PEMBANTU WIYUNG                                                                                                                                                                                  ",
+        "parent_code": "C65",
+        "parent_name": "Cab. HR MUHAMMAD"
+    },
+    {
+        "code": "C6502",
+        "name": "CABANG PEMBANTU LIDAH KULON                                                                                                                                                                             ",
+        "parent_code": "C65",
+        "parent_name": "Cab. HR MUHAMMAD"
+    },
+    {
+        "code": "C6503",
+        "name": "CABANG PEMBANTU BENOWO                                                                                                                                                                                  ",
+        "parent_code": "C65",
+        "parent_name": "Cab. HR MUHAMMAD"
+    },
+    {
+        "code": "C6504",
+        "name": "CABANG PEMBANTU MANUKAN                                                                                                                                                                                 ",
+        "parent_code": "C65",
+        "parent_name": "Cab. HR MUHAMMAD"
+    },
+    {
+        "code": "C9302",
+        "name": "Cabang Pembantu Syariah Mojokerto                                                                                                                                                                       ",
+        "parent_code": "C93",
+        "parent_name": "Cab. Syariah Sidoarjo"
+    },
+    {
+        "code": "C9301",
+        "name": "Cabang Pembantu Syariah Jombang                                                                                                                                                                         ",
+        "parent_code": "C93",
+        "parent_name": "Cab. Syariah Sidoarjo"
+    },
+    {
+        "code": "C9401",
+        "name": "CABANG PEMBANTU SYARIAH GENTENG                                                                                                                                                                         ",
+        "parent_code": "C94",
+        "parent_name": "Cab. Syariah Jember"
+    },
+    {
+        "code": "C9501",
+        "name": "Cabang Pembantu Syariah Lamongan                                                                                                                                                                        ",
+        "parent_code": "C95",
+        "parent_name": "Cab. Syariah Gresik"
+    },
+    {
+        "code": "C9601",
+        "name": "Capem Syariah Probolinggo                                                                                                                                                                               ",
+        "parent_code": "C96",
+        "parent_name": "Cab. Syariah Madiun"
+    },
+    {
+        "code": "C9702",
+        "name": "Cabang Pembantu Syariah Batu                                                                                                                                                                            ",
+        "parent_code": "C97",
+        "parent_name": "Cab. Syariah Malang"
+    },
+    {
+        "code": "C9701",
+        "name": "Cabang Pembantu Syariah Probolinggo                                                                                                                                                                     ",
+        "parent_code": "C97",
+        "parent_name": "Cab. Syariah Malang"
+    },
+    {
+        "code": "C9803",
+        "name": "Cabang Pembantu Syariah Blitar                                                                                                                                                                          ",
+        "parent_code": "C98",
+        "parent_name": "Cab. Syariah Kediri"
+    },
+    {
+        "code": "C9801",
+        "name": "Cabang Syariah Madiun                                                                                                                                                                                   ",
+        "parent_code": "C98",
+        "parent_name": "Cab. Syariah Kediri"
+    },
+    {
+        "code": "C9802",
+        "name": "Cabang Syariah Madiun                                                                                                                                                                                   ",
+        "parent_code": "C98",
+        "parent_name": "Cab. Syariah Kediri"
+    },
+    {
+        "code": "C9908",
+        "name": "CABANG PEMBANTU SYARIAH  SURABAYA UTARA                                                                                                                                                                 ",
+        "parent_code": "C99",
+        "parent_name": "Cab. Syariah Surabaya"
+    },
+    {
+        "code": "C9912",
+        "name": "Capem Syariah Banyuwangi                                                                                                                                                                                ",
+        "parent_code": "C99",
+        "parent_name": "Cab. Syariah Surabaya"
+    },
+    {
+        "code": "C9909",
+        "name": "CABANG PEMBANTU SYARIAH MERR                                                                                                                                                                            ",
+        "parent_code": "C99",
+        "parent_name": "Cab. Syariah Surabaya"
+    },
+    {
+        "code": "C9910",
+        "name": "CABANG PEMBANTU SYARIAH WIYUNG                                                                                                                                                                          ",
+        "parent_code": "C99",
+        "parent_name": "Cab. Syariah Surabaya"
+    },
+    {
+        "code": "C9913",
+        "name": "CABANG PEMBANTU SYARIAH JOMBANG                                                                                                                                                                         ",
+        "parent_code": "C99",
+        "parent_name": "Cab. Syariah Surabaya"
+    },
+
+    {
+        "code": "C9911",
+        "name": "CABANG PEMBANTU SYARIAH  GENTENG                                                                                                                                                                        ",
+        "parent_code": "C99",
+        "parent_name": "Cab. Syariah Surabaya"
+    },
+    {
+        "code": "C9914",
+        "name": "CABANG PEMBANTU SYARIAH AMPEL                                                                                                                                                                           ",
+        "parent_code": "C99",
+        "parent_name": "Cab. Syariah Surabaya"
+    },
+    {
+        "code": "C9902",
+        "name": "CABANG PEMBANTU SYARIAH SAMPANG                                                                                                                                                                         ",
+        "parent_code": "C99",
+        "parent_name": "Cab. Syariah Surabaya"
+    }
+]
